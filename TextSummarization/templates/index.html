@@ -7,9 +7,11 @@
 </head>
 <body>
     <h1>Text Summarization</h1>
-    <form>
-        <label for="fname">Passage</label><br>
-        <input type="text" id="fname" name="fname"><br>
+    <form action="{{ url_for('predict')}}" method="post">
+        <label for="passage">Passage</label><br>
+        <input type="text" id="fname" name="passage"><br>
+        <input type="submit"><br>
       </form>
+    <p>{{ sum }}</p>
 </body>
 </html>
