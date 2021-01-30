@@ -1,12 +1,12 @@
 # text summarisation with python
 
 #importing library
-from flask.wrappers import Request
 import nltk
 import string 
 from heapq import nlargest
 
-from flask import Flask, render_template
+from flask import Flask, render_template, request
+from nltk.util import print_string
 app = Flask(__name__)
 
 def summaryFunc(text):
@@ -54,14 +54,13 @@ def home():
 
 @app.route('/predict', methods =["POST","GET"])
 def predict():
-    if Request.method=='POST':
-        text = str(Request.form['passage'])
+    if request.method == 'POST':
+        text = str(request.form['passage'])
+        print(text)
         sum = summaryFunc(text)
         return render_template('index.html', sum = sum)
     else:
         return("oops something crashed")
-
-# print(summaryFunc(text))
 
 if __name__ == '__main__':
     app.run(debug=True)
