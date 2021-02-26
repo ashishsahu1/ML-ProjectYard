@@ -28,9 +28,9 @@ This project is for everyone with any tech stacks. ML, DL, NLP, CV enthusiasts, 
     - Design/code the webpage designed by designers.
 
 
-## Contributing to <project_name>
+## Contributing to ML-ProjectYard
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <project_name>, follow these steps:
+To contribute to ML-ProjectYard, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
