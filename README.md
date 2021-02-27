@@ -1,4 +1,8 @@
-# ML-ProjectYard
+
+
+![Web 1920 – 3](https://user-images.githubusercontent.com/52550558/109395363-f4204700-7951-11eb-8e18-47477c44c0cb.png)
+
+# About ML-ProjectYard
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
