@@ -81,7 +81,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
   <a href="https://github.com/https://github.com/ashishsahu1/ML-ProjectYard?tab=repositories">
     <img width="500" height="auto" align="right" alt="Ml-yard github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ashishsahu1&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
+   <!-- <img width="30%" height="auto" align="right" alt="Ml-yardts" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahu1&layout=compact" />
 
 ## Contributors
