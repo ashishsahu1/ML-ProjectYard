@@ -1,0 +1,2 @@
+The project is about predicting the housing price of metropolitan areas of India i.e Kolkata
+With 40 explanatory variables describing various aspects of new and resale houses in the metropolitan areas of India like Kolkata, one can predict the final price of houses in these regions.
