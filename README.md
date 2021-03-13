@@ -44,11 +44,11 @@ To contribute to ML-ProjectYard, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-# Inside ML-Yard
-S.no | First Header  | Second Header |
-   1 | ------------- | ------------- |
-   2 | Content Cell  | Content Cell  |
-   3 | Content Cell  | Content Cell  |
+## Inside ML-Yard
+| S.no | First Header  | Second Header |
+|   1 | ------------- | ------------- |
+|   2 | Content Cell  | Content Cell  |
+|   3 | Content Cell  | Content Cell  |
 ## Contributors
 
 Thanks to these amazing peoples.
