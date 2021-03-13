@@ -44,12 +44,38 @@ To contribute to ML-ProjectYard, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Inside ML-Yard
-| Column 1 Header | Column 2 Header | Column 3 Header |
+## Inside ML-ProjectYard
+| S.no | Project Name | Project Description |
 | --------------- | --------------- | --------------- |
-| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
-| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
-| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
+| 1 | Banglore House Prices Prediction | Row 1 Column 3 |
+| 2 | Bike Sharing Demand Prediction | Row 2 Column 3 |
+| 3 | Brain Tumor | Row 3 Column 3 |
+| 4 | Cancer Prediction Model | Row 3 Column 3 |
+| 5 | Cartoonify | Row 3 Column 3 |
+| 6 | Covid-19 Analysis | Row 3 Column 3 |
+| 7 | Face Recognition | Row 3 Column 3 |
+| 8 | Fake News Prediction | Row 3 Column 3 |
+| 9 | Flight Delay Prediction | Row 3 Column 3 |
+| 10 | Gold Prediction Model | Row 3 Column 3 |
+| 11 | Graduate Admission Predictor | Row 3 Column 3 |
+| 12 | Heart Failure Prediction | Row 3 Column 3 |
+| 13 | Ipl Analysis | Row 3 Column 3 |
+| 14 | Invisibility Cloak | Row 3 Column 3 |
+| 15 | Iris Flower Classification | Row 3 Column 3 |
+| 16 | Kolkata House Price Prediction | Row 3 Column 3 |
+| 17 | Ml-Project Yard | Row 3 Column 3 |
+| 18 | Mileage Predictor | Row 3 Column 3 |
+| 19 | Movie Recommendation | Row 3 Column 3 |
+| 20 | Music Genre Classification | Row 3 Column 3 |
+| 21 | Spam Message Detector | Row 3 Column 3 |
+| 22 | Stock Price Prediction | Row 3 Column 3 |
+| 23 | Text Summarization | Row 3 Column 3 |
+| 24 | Titanic Prediction | Row 3 Column 3 |
+| 25 | Twitter Sentiment Analysis | Row 3 Column 3 |
+| 26 | Uber Analysis | Row 3 Column 3 |
+| 27 | Vehicle And Pedestrian Tracking | Row 3 Column 3 |
+| 28 | Wine Quality Test | Row 3 Column 3 |
+| 29 | Delhi House Price Prediction | Row 3 Column 3 |
 
 ## Contributors
 
