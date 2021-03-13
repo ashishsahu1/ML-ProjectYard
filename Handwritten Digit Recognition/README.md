@@ -3,7 +3,10 @@ The handwritten digit recognition is the ability of computers to recognize human
 
 ## About the Python Deep Learning Project
 
-Handwritten digit recognition app using the MNIST dataset. We will be using a special type of deep neural network that is Convolutional Neural Networks. In the end, we are going to build a GUI in which you can draw the digit and recognize it straight away.
-Prerequisites
+Handwritten digit recognition app using the MNIST dataset. 
+We will be using a special type of deep neural network that is Convolutional Neural Networks.
+In the end, we are going to build a GUI in which you can draw the digit and recognize it straight away.
+
+## Pre-requisites
 
 The interesting Python project requires you to have basic knowledge of Python programming, deep learning with Keras library and the Tkinter library for building GUI.
