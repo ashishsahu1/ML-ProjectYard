@@ -47,7 +47,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## Inside ML-ProjectYard
 | S.no | Project Name | Project Description |
 | --------------- | --------------- | --------------- |
-| 1 | Banglore House Prices Prediction(https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bangalore%20House%20Prices%20Prediction) | Row 1 Column 3 |
+| 1 | [Banglore House Prices Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bangalore%20House%20Prices%20Prediction) | Row 1 Column 3 |
 | 2 | Bike Sharing Demand Prediction | Row 2 Column 3 |
 | 3 | Brain Tumor | Row 3 Column 3 |
 | 4 | Cancer Prediction Model | Row 3 Column 3 |
