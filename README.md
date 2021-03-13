@@ -78,7 +78,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 | 29 | [Delhi House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/delhi%20housing%20price%20prediction) | Row 3 Column 3 |
 
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
+  <a href="https://github.com/https://github.com/ashishsahu1/ML-ProjectYard?tab=repositories">
     <img width="500" height="auto" align="right" alt="Ml-yard github stats" 
          src="https://github-readme-stats.vercel.app/api?username=ashishsahu1&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
