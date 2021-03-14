@@ -2,6 +2,8 @@
 
 ![Web 1920 – 3](https://user-images.githubusercontent.com/52550558/109395363-f4204700-7951-11eb-8e18-47477c44c0cb.png)
 
+<center>
+
 ![](https://badgen.net/github/stars/ashishsahu1/ML-ProjectYard)
 ![](https://badgen.net/github/forks/ashishsahu1/ML-ProjectYard)
 ![](https://badgen.net/github/open-issues/ashishsahu1/ML-ProjectYard)
@@ -10,9 +12,12 @@
 ![](https://badgen.net/github/open-prs/ashishsahu1/ML-ProjectYard)
 ![](https://badgen.net/github/closed-prs/ashishsahu1/ML-ProjectYard)
 
+</center>
+
 
 
 # About ML-ProjectYard
+
 
 ML-ProjectYard is a curated place for all `Machine Learning`, `Deep Learning`, `NLP`,`Computer Vision` based __projects__ with `frontend` and `backend`.
 
