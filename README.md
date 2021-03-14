@@ -44,10 +44,19 @@ To contribute to ML-ProjectYard, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## Contributors:
 
-Thanks to these amazing peoples.
-.
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+            <a href="https://github.com/ashishsahu1/ML-ProjectYard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ashishsahu1/ML-ProjectYard" />
+</a>
+    </td>
+	</tr>
+</table>
 
 ## Contact
 
