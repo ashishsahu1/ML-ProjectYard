@@ -1,0 +1,8 @@
+we require following python module for successful run:
+ 1. scikit-learn
+ 2. pandas
+ 3. numpy
+ 4. matplotlib
+ 5. joblib
+ 6. seaborn
+ 7. flask
