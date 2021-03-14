@@ -47,35 +47,36 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 ## Inside ML-ProjectYard
 | S.no | Project Name | Project Description |
 | --------------- | --------------- | --------------- |
-| 1 | [Banglore House Prices Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bangalore%20House%20Prices%20Prediction) | Row 1 Column 3 |
-| 2 | [Bike Sharing Demand Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bike%20Sharing%20Demand%20Prediction) | Row 2 Column 3 |
-| 3 | [Brain Tumor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Brain-Tumor) | Row 3 Column 3 |
-| 4 | [Cancer Prediction Model](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Cancer%20Prediction%20Model) | Row 3 Column 3 |
-| 5 | [Cartoonify](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Cartoonify) | Row 3 Column 3 |
-| 6 | [Covid-19 Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Covid-19%20Analysis) | Row 3 Column 3 |
-| 7 | [Face Recognition](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Face%20Recognition) | Row 3 Column 3 |
-| 8 | [Fake News Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Fake%20News%20Prediction) | Row 3 Column 3 |
-| 9 | [Flight Delay Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Flight%20Delay%20Prediction/Model) | Row 3 Column 3 |
-| 10 | [Gold Prediction Model](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Gold%20Prediction%20Model) | Row 3 Column 3 |
-| 11 | [Graduate Admission Predictor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/GraduateAdmissionPredictor/Model) | Row 3 Column 3 |
-| 12 | [Heart Failure Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Heart%20Failure%20Prediction) | Row 3 Column 3 |
-| 13 | [Ipl Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/IPL_Analysis) | Row 3 Column 3 |
-| 14 | [Invisibility Cloak](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Invisibility%20Cloak) | Row 3 Column 3 |
-| 15 | [Iris Flower Classification](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/IrisFlowerClassification) | Row 3 Column 3 |
-| 16 | [Kolkata House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/KolkataHousePrice-Prediction) | Row 3 Column 3 |
-| 17 | [Ml-Project Yard](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/ML-ProjectYard/projectyard) | Row 3 Column 3 |
-| 18 | [Mileage Predictor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/MileagePredictor) | Row 3 Column 3 |
-| 19 | [Movie Recommendation](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Movie%20Recommendation) | Row 3 Column 3 |
-| 20 | [Music Genre Classification](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Music%20Genre%20Classification) | Row 3 Column 3 |
-| 21 | [Spam Message Detector](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Spam%20Message%20Detector) | Row 3 Column 3 |
-| 22 | [Stock Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Stock%20Price%20Prediction) | Row 3 Column 3 |
-| 23 | [Text Summarization](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/TextSummarization) | Row 3 Column 3 |
-| 24 | [Titanic Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/TitanicPrediction) | Row 3 Column 3 |
-| 25 | [Twitter Sentiment Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Twitter%20Sentiment%20Analysis) | Row 3 Column 3 |
-| 26 | [Uber Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Uber%20analysis) | Row 3 Column 3 |
-| 27 | [Vehicle And Pedestrian Tracking](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/VehicleAndPedestrianTracking) | Row 3 Column 3 |
-| 28 | [Wine Quality Test](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/WineQualityTest) | Row 3 Column 3 |
-| 29 | [Delhi House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/delhi%20housing%20price%20prediction) | Row 3 Column 3 |
+| 1 | [Banglore House Prices Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bangalore%20House%20Prices%20Prediction)
+| 2 | [Bike Sharing Demand Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bike%20Sharing%20Demand%20Prediction)
+| 3 | [Brain Tumor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Brain-Tumor)
+| 4 | [Cancer Prediction Model](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Cancer%20Prediction%20Model)
+| 5 | [Cartoonify](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Cartoonify) 
+| 6 | [Diabeties Predictor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Diabetes%20Predictor)
+| 7 | [Covid-19 Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Covid-19%20Analysis) 
+| 8 | [Face Recognition](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Face%20Recognition) 
+| 9 | [Fake News Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Fake%20News%20Prediction) 
+| 10 | [Flight Delay Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Flight%20Delay%20Prediction/Model) 
+| 11 | [Gold Prediction Model](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Gold%20Prediction%20Model) 
+| 12 | [Graduate Admission Predictor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/GraduateAdmissionPredictor/Model) 
+| 13 | [Heart Failure Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Heart%20Failure%20Prediction)
+| 14 | [Ipl Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/IPL_Analysis) 
+| 15 | [Invisibility Cloak](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Invisibility%20Cloak)
+| 16 | [Iris Flower Classification](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/IrisFlowerClassification) 
+| 17 | [Kolkata House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/KolkataHousePrice-Prediction) 
+| 18 | [Ml-Project Yard](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/ML-ProjectYard/projectyard) 
+| 19 | [Mileage Predictor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/MileagePredictor) 
+| 20 | [Movie Recommendation](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Movie%20Recommendation)
+| 21 | [Music Genre Classification](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Music%20Genre%20Classification)
+| 22 | [Spam Message Detector](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Spam%20Message%20Detector) 
+| 23 | [Stock Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Stock%20Price%20Prediction) 
+| 24 | [Text Summarization](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/TextSummarization) 
+| 25 | [Titanic Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/TitanicPrediction) 
+| 26 | [Twitter Sentiment Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Twitter%20Sentiment%20Analysis)
+| 27 | [Uber Analysis](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Uber%20analysis)
+| 28 | [Vehicle And Pedestrian Tracking](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/VehicleAndPedestrianTracking)
+| 29 | [Wine Quality Test](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/WineQualityTest) 
+| 30 | [Delhi House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/delhi%20housing%20price%20prediction)
 
 
 ## Contributors
