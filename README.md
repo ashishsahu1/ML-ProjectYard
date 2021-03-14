@@ -45,8 +45,8 @@ To contribute to ML-ProjectYard, follow these steps:
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 ## Inside ML-ProjectYard
-| S.no | Project Name | Project Description |
-| --------------- | --------------- | --------------- |
+| S.no | Project Name 
+| --------------- | --------------- 
 | 1 | [Banglore House Prices Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bangalore%20House%20Prices%20Prediction)
 | 2 | [Bike Sharing Demand Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bike%20Sharing%20Demand%20Prediction)
 | 3 | [Brain Tumor](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Brain-Tumor)
