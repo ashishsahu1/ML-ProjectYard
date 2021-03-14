@@ -2,14 +2,17 @@
 
 ![Web 1920 – 3](https://user-images.githubusercontent.com/52550558/109395363-f4204700-7951-11eb-8e18-47477c44c0cb.png)
 
-# About ML-ProjectYard
+![](https://badgen.net/github/stars/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/forks/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/open-issues/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/closed-issues/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/prs/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/open-prs/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/closed-prs/ashishsahu1/ML-ProjectYard)
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social) -->
+
+
+# About ML-ProjectYard
 
 ML-ProjectYard is a curated place for all `Machine Learning`, `Deep Learning`, `NLP`,`Computer Vision` based __projects__ with `frontend` and `backend`.
 
