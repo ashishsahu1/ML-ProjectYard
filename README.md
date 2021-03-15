@@ -2,14 +2,22 @@
 
 ![Web 1920 – 3](https://user-images.githubusercontent.com/52550558/109395363-f4204700-7951-11eb-8e18-47477c44c0cb.png)
 
+<center>
+
+![](https://badgen.net/github/stars/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/forks/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/open-issues/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/closed-issues/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/prs/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/open-prs/ashishsahu1/ML-ProjectYard)
+![](https://badgen.net/github/closed-prs/ashishsahu1/ML-ProjectYard)
+
+</center>
+
+
+
 # About ML-ProjectYard
 
-<!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social) -->
 
 ML-ProjectYard is a curated place for all `Machine Learning`, `Deep Learning`, `NLP`,`Computer Vision` based __projects__ with `frontend` and `backend`.
 
@@ -44,10 +52,19 @@ To contribute to ML-ProjectYard, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## Contributors:
 
-Thanks to these amazing peoples.
-.
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+            <a href="https://github.com/ashishsahu1/ML-ProjectYard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ashishsahu1/ML-ProjectYard" />
+</a>
+    </td>
+	</tr>
+</table>
 
 ## Contact
 
