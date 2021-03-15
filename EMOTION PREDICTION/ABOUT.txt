@@ -1,0 +1,25 @@
+Help for model : https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp/notebooks
+
+Cool Text: https://codepen.io/soulwire/full/mErPAK
+
+Cool Text Area : https://codepen.io/steinvc/details/kxbgH
+
+Cool Css Buttons : https://1stwebdesigner.com/20-amazing-pure-css-animated-buttons/
+
+Also try Translating : https://www.youtube.com/watch?v=P1uHDPpe_04
+
+
+CONVERT VEDIO TO GIF AND UPLOAD TO README ON GITHUB : CODE ![GIF](readme_resources/spam-sms-web-app.gif)
+
+
+1. joy
+2. sadness
+3. anger
+4. love
+5. fear
+6. suprise
+
+PROBLEMS :
+--> GATHERING DATA                         : KAGGLE HELPED ME 
+--> ACCURACY OF THE MODEL IS LESS          : SEVERAL FACTORS SUCH AS DATA BEING SKEWED,DATA LEAKAGE ETC
+--> LISTING OUT REQUIREMENT                : PYTHON LIBRARY CALLED pipreqs would generate req.txt
