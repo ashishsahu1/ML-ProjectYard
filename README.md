@@ -52,21 +52,7 @@ To contribute to ML-ProjectYard, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors:
-
-### Credits goes to these people:✨
-
-<table>
-	<tr>
-		<td>
-            <a href="https://github.com/ashishsahu1/ML-ProjectYard/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ashishsahu1/ML-ProjectYard" />
-</a>
-    </td>
-	</tr>
-</table>
-
-## Inside ML-ProjectYard
+## Index
 | S.no | Project Name | Description |
 | --------------- | --------------- | --------------- |
 | 1 | [Banglore House Prices Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Bangalore%20House%20Prices%20Prediction) | Model to predict price of houses in Banglore based on location and other factors |
@@ -106,8 +92,21 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 | 35 | [Walmart Sales Prediciton ](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Walmart%20Sales%20Prediction) | Model to predict walmart sales using historic data |
 | 36 | [Weather Forecasting](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Weather%20Forecasting) | Weather prediction using Decision Tree Regressor|
 | 37 | [Wine Quality Test](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/WineQualityTest) | Prediction of wine quality based of different amount of element present in wine |
-| 38 | [Delhi House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/delhi%20housing%20price%20prediction) | Model to predict price of houses in 
-Delhi based on location and other factors |
+| 38 | [Delhi House Price Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/delhi%20housing%20price%20prediction) | Model to predict price of houses in Delhi based on location and other factors |
+
+## Contributors:
+
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+            <a href="https://github.com/ashishsahu1/ML-ProjectYard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ashishsahu1/ML-ProjectYard" />
+</a>
+    </td>
+	</tr>
+</table>
 
 ## Contact
 
