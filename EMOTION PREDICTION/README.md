@@ -9,6 +9,10 @@
              * HTML
              * CSS
              * Python(Flask as Backend)
+
+
+Screen Shot of the WebApp :
+![SS](ReadMe_Resources/Glipse_EmoRec.png)
              
 Deployed at: https://emorecognition.herokuapp.com/
 
