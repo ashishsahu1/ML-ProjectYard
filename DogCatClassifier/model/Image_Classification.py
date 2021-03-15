@@ -73,7 +73,7 @@ EPOCHS = 50
 
 history = model.fit_generator(
     train_data_gen,steps_per_epoch=int(np.ceil(total_train / float(BATCH_SIZE))),epochs=EPOCHS,test_data=test_data_gen,test_steps=int(np.ceil(total_test / float(BATCH_SIZE)))
-    )
+)
 
 
 # analysis
@@ -98,3 +98,9 @@ plt.plot(epochs_range, test_loss, label='test Loss')
 plt.legend(loc='upper right')
 plt.title('Training and test Loss')
 plt.show()
+
+import pickle
+Pkl_Filename = "dogsvscats.pkl"  
+
+with open(Pkl_Filename, 'wb') as file:  
+    pickle.dump(model, file)
