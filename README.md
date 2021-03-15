@@ -28,15 +28,15 @@ These projects will also help in practical learning for new ML/AI enthusiasts.
 ## Project Divisions 
 This project is for everyone with any tech stacks. ML, DL, NLP, CV enthusiasts, UI/UX designers, frontend designers, backend developers everyone has some tasks for you.
 
-- Data Analysts
+- **Data Analysts**
     - Frame the problem, Get the data, Explore the data,Prepare the data
-- ML, DL, NLP, CV enthusiasts
+- **ML, DL, NLP, CV enthusiasts**
     - Try different algorithms, build model, fine tuning the model if required
-- UI/UX designers
+- **UI/UX designers**
     - Design dashboards,froms, webpages for the model 
-- Backend Developers
+- **Backend Developers**
     - Create Backend for the model using Flask or Django
-- Frontend Designers
+- **Frontend Designers**
     - Design/code the webpage designed by designers.
 
 
@@ -45,10 +45,11 @@ This project is for everyone with any tech stacks. ML, DL, NLP, CV enthusiasts, 
 To contribute to ML-ProjectYard, follow these steps:
 
 1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+2. Clone this repository using `git clone https://github.com/ashishsahu1/ML-ProjectYard.git`
+3. Create a branch: `git checkout -b <branch_name>`.
+4. Make your changes and commit them: `git commit -m '<commit_message>'`
+5. Push to the original branch: `git push origin <project_name>/<location>`
+6. Create the pull request.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
