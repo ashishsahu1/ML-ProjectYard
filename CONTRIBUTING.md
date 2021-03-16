@@ -72,7 +72,7 @@ The last command pushes the latest code to your forked repository on Github. The
 
 Normally, all repositories have a master branch which is considered to remain stable and all new features should be made in a separate branch and after completion merged into master branch. So we should create a new branch for our feature or bugfix and start working on the issue.
 
-```$ git checkout -b <feature-branch>```
+```$ git checkout -b <feature-branch>```   <br>
 This will create a new branch out of master branch. Now start working on the problem and commit your changes.
 
     $ git add --all
