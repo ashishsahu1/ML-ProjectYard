@@ -1,0 +1,480 @@
+[33mcommit 5ef1bc03395b301c158f9fe1f57001097f03dd42[m[33m ([m[1;36mHEAD -> [m[1;32mWineTest[m[33m, [m[1;31morigin/WineTest[m[33m)[m
+Author: unknown <kartikrajsingh05@gmail.com>
+Date:   Fri Mar 12 21:39:36 2021 +0530
+
+    Successfully Pridicted Quality of Wine
+
+[33mcommit f7950ba3da1b201b137124e2686b91f0b28b4780[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 68af36e 1b4a120
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Thu Mar 11 21:22:36 2021 +0530
+
+    Merge pull request #79 from ashishsahu1/imgbot
+    
+    [ImgBot] Optimize images
+
+[33mcommit 1b4a120f948332621ecdbb32250559afa1a65908[m
+Author: ImgBotApp <ImgBotHelp@gmail.com>
+Date:   Thu Mar 11 15:43:17 2021 +0000
+
+    [ImgBot] Optimize images
+    
+    *Total -- 9,860.23kb -> 8,358.12kb (15.23%)
+    
+    /Brain-Tumor/Dataset/no/no 9.png -- 710.85kb -> 287.69kb (59.53%)
+    /Brain-Tumor/Dataset/aug_data/no/no 9.png -- 710.85kb -> 287.69kb (59.53%)
+    /Brain-Tumor/Dataset/no/no 7.jpeg -- 80.36kb -> 58.93kb (26.67%)
+    /Brain-Tumor/Dataset/aug_data/no/No11.jpg -- 80.36kb -> 58.93kb (26.67%)
+    /Brain-Tumor/Dataset/aug_data/no/no 7.jpeg -- 80.36kb -> 58.93kb (26.67%)
+    /Brain-Tumor/Dataset/no/No11.jpg -- 80.36kb -> 58.93kb (26.67%)
+    /Brain-Tumor/Dataset/yes/Y24.jpg -- 297.99kb -> 242.45kb (18.64%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y24.jpg -- 297.99kb -> 242.45kb (18.64%)
+    /Brain-Tumor/Dataset/yes/Y153.jpg -- 30.33kb -> 26.32kb (13.21%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y153.jpg -- 30.33kb -> 26.32kb (13.21%)
+    /Brain-Tumor/Dataset/yes/Y42.jpg -- 11.76kb -> 10.26kb (12.79%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y42.jpg -- 11.76kb -> 10.26kb (12.79%)
+    /Brain-Tumor/Dataset/no/N17.jpg -- 31.81kb -> 27.88kb (12.36%)
+    /Brain-Tumor/Dataset/aug_data/no/N17.jpg -- 31.81kb -> 27.88kb (12.36%)
+    /Brain-Tumor/Dataset/yes/Y257.jpg -- 64.79kb -> 56.79kb (12.35%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y257.jpg -- 64.79kb -> 56.79kb (12.35%)
+    /Brain-Tumor/Dataset/yes/Y29.jpg -- 25.33kb -> 22.29kb (12%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y29.jpg -- 25.33kb -> 22.29kb (12%)
+    /Brain-Tumor/Dataset/yes/Y183.jpg -- 31.82kb -> 28.11kb (11.67%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y183.jpg -- 31.82kb -> 28.11kb (11.67%)
+    /Brain-Tumor/Dataset/yes/Y32.jpg -- 29.09kb -> 25.73kb (11.56%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y32.jpg -- 29.09kb -> 25.73kb (11.56%)
+    /Brain-Tumor/Dataset/yes/Y20.jpg -- 24.04kb -> 21.28kb (11.45%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y20.jpg -- 24.04kb -> 21.28kb (11.45%)
+    /Brain-Tumor/Dataset/yes/Y3.jpg -- 45.60kb -> 40.71kb (10.72%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y3.jpg -- 45.60kb -> 40.71kb (10.72%)
+    /Brain-Tumor/Dataset/aug_data/no/no 90.jpg -- 14.66kb -> 13.20kb (9.96%)
+    /Brain-Tumor/Dataset/aug_data/no/No22.jpg -- 35.87kb -> 32.36kb (9.78%)
+    /Brain-Tumor/Dataset/no/No22.jpg -- 35.87kb -> 32.36kb (9.78%)
+    /Brain-Tumor/Dataset/aug_data/no/No16.jpg -- 7.07kb -> 6.38kb (9.7%)
+    /Brain-Tumor/Dataset/no/No16.jpg -- 7.07kb -> 6.38kb (9.7%)
+    /Brain-Tumor/Dataset/yes/Y61.jpg -- 64.05kb -> 57.94kb (9.54%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y61.jpg -- 64.05kb -> 57.94kb (9.54%)
+    /Brain-Tumor/Dataset/no/7 no.jpg -- 74.56kb -> 67.71kb (9.19%)
+    /Brain-Tumor/Dataset/aug_data/no/7 no.jpg -- 74.56kb -> 67.71kb (9.19%)
+    /Brain-Tumor/Dataset/yes/Y8.jpg -- 39.97kb -> 36.37kb (9%)
+    /Brain-Tumor/Dataset/yes/Y194.jpg -- 34.77kb -> 31.65kb (8.97%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y194.jpg -- 34.77kb -> 31.65kb (8.97%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y35.jpg -- 40.04kb -> 36.49kb (8.88%)
+    /Brain-Tumor/Dataset/yes/Y35.jpg -- 40.04kb -> 36.49kb (8.88%)
+    /Brain-Tumor/Dataset/yes/Y2.jpg -- 12.15kb -> 11.07kb (8.85%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y2.jpg -- 12.15kb -> 11.07kb (8.85%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y188.jpg -- 70.09kb -> 64.17kb (8.45%)
+    /Brain-Tumor/Dataset/yes/Y188.jpg -- 70.09kb -> 64.17kb (8.45%)
+    /Brain-Tumor/Dataset/yes/Y96.jpg -- 79.99kb -> 73.64kb (7.94%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y96.jpg -- 79.99kb -> 73.64kb (7.94%)
+    /Brain-Tumor/Dataset/aug_data/no/N11.jpg -- 31.08kb -> 28.68kb (7.73%)
+    /Brain-Tumor/Dataset/no/N11.jpg -- 31.08kb -> 28.68kb (7.73%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y107.jpg -- 85.16kb -> 78.64kb (7.66%)
+    /Brain-Tumor/Dataset/yes/Y107.jpg -- 85.16kb -> 78.64kb (7.66%)
+    /Brain-Tumor/Dataset/yes/Y33.jpg -- 85.16kb -> 78.64kb (7.66%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y33.jpg -- 85.16kb -> 78.64kb (7.66%)
+    /Brain-Tumor/Dataset/aug_data/no/No12.jpg -- 38.00kb -> 35.12kb (7.59%)
+    /Brain-Tumor/Dataset/no/No12.jpg -- 38.00kb -> 35.12kb (7.59%)
+    /Brain-Tumor/Dataset/yes/Y6.jpg -- 84.55kb -> 78.19kb (7.52%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y6.jpg -- 84.55kb -> 78.19kb (7.52%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y27.jpg -- 37.07kb -> 34.34kb (7.38%)
+    /Brain-Tumor/Dataset/yes/Y27.jpg -- 37.07kb -> 34.34kb (7.38%)
+    /Brain-Tumor/Dataset/aug_data/no/No14.jpg -- 14.90kb -> 13.81kb (7.32%)
+    /Brain-Tumor/Dataset/no/No14.jpg -- 14.90kb -> 13.81kb (7.32%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y103.jpg -- 128.17kb -> 118.82kb (7.3%)
+    /Brain-Tumor/Dataset/yes/Y103.jpg -- 128.17kb -> 118.82kb (7.3%)
+    /Brain-Tumor/Dataset/yes/Y180.jpg -- 58.92kb -> 54.62kb (7.3%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y180.jpg -- 58.92kb -> 54.62kb (7.3%)
+    /Brain-Tumor/Dataset/yes/Y28.jpg -- 39.11kb -> 36.32kb (7.13%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y28.jpg -- 39.11kb -> 36.32kb (7.13%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y51.jpg -- 96.60kb -> 89.87kb (6.96%)
+    /Brain-Tumor/Dataset/yes/Y51.jpg -- 96.60kb -> 89.87kb (6.96%)
+    /Brain-Tumor/Dataset/yes/Y168.jpg -- 10.34kb -> 9.63kb (6.88%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y168.jpg -- 10.34kb -> 9.63kb (6.88%)
+    /Brain-Tumor/Dataset/no/45 no.jpg -- 24.18kb -> 22.52kb (6.87%)
+    /Brain-Tumor/Dataset/aug_data/no/45 no.jpg -- 24.18kb -> 22.52kb (6.87%)
+    /Brain-Tumor/Dataset/yes/Y25.jpg -- 30.35kb -> 28.28kb (6.84%)
+    /Brain-Tumor/Dataset/yes/Y69.jpg -- 30.35kb -> 28.28kb (6.84%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y25.jpg -- 30.35kb -> 28.28kb (6.84%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y69.jpg -- 30.35kb -> 28.28kb (6.84%)
+    /Brain-Tumor/Dataset/yes/Y77.jpg -- 12.62kb -> 11.77kb (6.79%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y77.jpg -- 12.62kb -> 11.77kb (6.79%)
+    /Brain-Tumor/Dataset/yes/Y90.jpg -- 89.06kb -> 83.04kb (6.76%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y90.jpg -- 89.06kb -> 83.04kb (6.76%)
+    /Brain-Tumor/Dataset/yes/Y76.jpg -- 18.73kb -> 17.47kb (6.72%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y76.jpg -- 18.73kb -> 17.47kb (6.72%)
+    /Brain-Tumor/Dataset/yes/Y74.jpg -- 42.08kb -> 39.26kb (6.7%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y74.jpg -- 42.08kb -> 39.26kb (6.7%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y55.jpg -- 42.08kb -> 39.26kb (6.7%)
+    /Brain-Tumor/Dataset/yes/Y55.jpg -- 42.08kb -> 39.26kb (6.7%)
+    /Brain-Tumor/Dataset/no/no 89.jpg -- 37.50kb -> 34.99kb (6.67%)
+    /Brain-Tumor/Dataset/aug_data/no/no 89.jpg -- 37.50kb -> 34.99kb (6.67%)
+    /Brain-Tumor/Dataset/aug_data/no/No19.jpg -- 195.53kb -> 182.58kb (6.62%)
+    /Brain-Tumor/Dataset/no/No19.jpg -- 195.53kb -> 182.58kb (6.62%)
+    /Brain-Tumor/Dataset/aug_data/no/46 no.jpg -- 58.45kb -> 54.70kb (6.41%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y91.jpg -- 166.57kb -> 155.98kb (6.35%)
+    /Brain-Tumor/Dataset/yes/Y37.jpg -- 8.33kb -> 7.81kb (6.29%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y37.jpg -- 8.33kb -> 7.81kb (6.29%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y10.jpg -- 8.33kb -> 7.81kb (6.29%)
+    /Brain-Tumor/Dataset/yes/Y10.jpg -- 8.33kb -> 7.81kb (6.29%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y185.jpg -- 20.92kb -> 19.61kb (6.27%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y26.jpg -- 32.38kb -> 30.36kb (6.24%)
+    /Brain-Tumor/Dataset/yes/Y26.jpg -- 32.38kb -> 30.36kb (6.24%)
+    /Brain-Tumor/Dataset/yes/Y7.jpg -- 26.31kb -> 24.68kb (6.2%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y7.jpg -- 26.31kb -> 24.68kb (6.2%)
+    /Brain-Tumor/Dataset/no/No21.jpg -- 34.53kb -> 32.40kb (6.17%)
+    /Brain-Tumor/Dataset/aug_data/no/No21.jpg -- 34.53kb -> 32.40kb (6.17%)
+    /Brain-Tumor/Dataset/yes/Y102.jpg -- 45.32kb -> 42.54kb (6.14%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y102.jpg -- 45.32kb -> 42.54kb (6.14%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y12.jpg -- 28.48kb -> 26.76kb (6.02%)
+    /Brain-Tumor/Dataset/yes/Y12.jpg -- 28.48kb -> 26.76kb (6.02%)
+    /Brain-Tumor/Dataset/yes/Y11.jpg -- 18.80kb -> 17.69kb (5.9%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y11.jpg -- 18.80kb -> 17.69kb (5.9%)
+    /Brain-Tumor/Dataset/aug_data/no/No13.jpg -- 21.63kb -> 20.38kb (5.79%)
+    /Brain-Tumor/Dataset/no/No13.jpg -- 21.63kb -> 20.38kb (5.79%)
+    /Brain-Tumor/Dataset/no/44no.jpg -- 18.79kb -> 17.72kb (5.72%)
+    /Brain-Tumor/Dataset/aug_data/no/44no.jpg -- 18.79kb -> 17.72kb (5.72%)
+    /Brain-Tumor/Dataset/yes/Y9.jpg -- 48.23kb -> 45.50kb (5.66%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y9.jpg -- 48.23kb -> 45.50kb (5.66%)
+    /Brain-Tumor/Dataset/no/no 95.jpg -- 39.27kb -> 37.11kb (5.49%)
+    /Brain-Tumor/Dataset/aug_data/no/no 95.jpg -- 39.27kb -> 37.11kb (5.49%)
+    /Brain-Tumor/Dataset/yes/Y154.jpg -- 20.42kb -> 19.36kb (5.2%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y154.jpg -- 20.42kb -> 19.36kb (5.2%)
+    /Brain-Tumor/Dataset/yes/Y79.jpg -- 20.42kb -> 19.36kb (5.2%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y79.jpg -- 20.42kb -> 19.36kb (5.2%)
+    /Brain-Tumor/Dataset/aug_data/no/no 99.jpg -- 40.57kb -> 38.46kb (5.19%)
+    /Brain-Tumor/Dataset/no/no 99.jpg -- 40.57kb -> 38.46kb (5.19%)
+    /Brain-Tumor/Dataset/no/no 91.jpeg -- 54.07kb -> 51.31kb (5.09%)
+    /Brain-Tumor/Dataset/no/no 97.jpg -- 27.67kb -> 26.42kb (4.52%)
+    /Brain-Tumor/Dataset/aug_data/no/no 97.jpg -- 27.67kb -> 26.42kb (4.52%)
+    /Brain-Tumor/Dataset/aug_data/no/N15.jpg -- 11.16kb -> 10.66kb (4.49%)
+    /Brain-Tumor/Dataset/no/N15.jpg -- 11.16kb -> 10.66kb (4.49%)
+    /Brain-Tumor/Dataset/yes/Y101.jpg -- 53.75kb -> 51.40kb (4.37%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y101.jpg -- 53.75kb -> 51.40kb (4.37%)
+    /Brain-Tumor/Dataset/aug_data/no/No20.jpg -- 27.61kb -> 26.41kb (4.34%)
+    /Brain-Tumor/Dataset/no/No20.jpg -- 27.61kb -> 26.41kb (4.34%)
+    /Brain-Tumor/Dataset/no/1 no.jpeg -- 53.24kb -> 50.95kb (4.31%)
+    /Brain-Tumor/Dataset/no/no 94.jpg -- 53.24kb -> 50.95kb (4.31%)
+    /Brain-Tumor/Dataset/aug_data/no/no 94.jpg -- 53.24kb -> 50.95kb (4.31%)
+    /Brain-Tumor/Dataset/aug_data/no/1 no.jpeg -- 53.24kb -> 50.95kb (4.31%)
+    /Brain-Tumor/Dataset/aug_data/no/no 8.jpg -- 26.10kb -> 24.98kb (4.3%)
+    /Brain-Tumor/Dataset/no/no 8.jpg -- 26.10kb -> 24.98kb (4.3%)
+    /Brain-Tumor/Dataset/no/2 no.jpeg -- 77.81kb -> 74.48kb (4.28%)
+    /Brain-Tumor/Dataset/aug_data/no/2 no.jpeg -- 77.81kb -> 74.48kb (4.28%)
+    /Brain-Tumor/Dataset/no/48 no.jpeg -- 34.07kb -> 32.77kb (3.82%)
+    /Brain-Tumor/Dataset/aug_data/no/48 no.jpeg -- 34.07kb -> 32.77kb (3.82%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y52.jpg -- 59.80kb -> 57.55kb (3.77%)
+    /Brain-Tumor/Dataset/yes/Y52.jpg -- 59.80kb -> 57.55kb (3.77%)
+    /Brain-Tumor/Dataset/yes/Y70.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y38.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/yes/Y38.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/yes/Y30.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y70.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/yes/Y54.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y54.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y30.jpg -- 15.50kb -> 14.92kb (3.75%)
+    /Brain-Tumor/Dataset/no/no 5.jpeg -- 27.76kb -> 26.73kb (3.7%)
+    /Brain-Tumor/Dataset/aug_data/no/no 5.jpeg -- 27.76kb -> 26.73kb (3.7%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y108.jpg -- 111.17kb -> 107.49kb (3.31%)
+    /Brain-Tumor/Dataset/yes/Y108.jpg -- 111.17kb -> 107.49kb (3.31%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y162.jpg -- 111.17kb -> 107.49kb (3.31%)
+    /Brain-Tumor/Dataset/yes/Y162.jpg -- 111.17kb -> 107.49kb (3.31%)
+    /Brain-Tumor/Dataset/yes/Y73.jpg -- 55.22kb -> 53.42kb (3.25%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y73.jpg -- 55.22kb -> 53.42kb (3.25%)
+    /Brain-Tumor/Dataset/no/no 4.jpg -- 14.20kb -> 13.75kb (3.16%)
+    /Brain-Tumor/Dataset/no/N3.jpg -- 14.20kb -> 13.75kb (3.16%)
+    /Brain-Tumor/Dataset/aug_data/no/no 4.jpg -- 14.20kb -> 13.75kb (3.16%)
+    /Brain-Tumor/Dataset/aug_data/no/N3.jpg -- 14.20kb -> 13.75kb (3.16%)
+    /Brain-Tumor/Dataset/yes/Y62.jpg -- 10.18kb -> 9.91kb (2.74%)
+    /Brain-Tumor/Dataset/yes/Y31.jpg -- 10.18kb -> 9.91kb (2.74%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y31.jpg -- 10.18kb -> 9.91kb (2.74%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y62.jpg -- 10.18kb -> 9.91kb (2.74%)
+    /Brain-Tumor/Dataset/yes/Y14.jpg -- 29.56kb -> 28.89kb (2.27%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y14.jpg -- 29.56kb -> 28.89kb (2.27%)
+    /Brain-Tumor/Dataset/yes/Y17.jpg -- 29.56kb -> 28.89kb (2.27%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y17.jpg -- 29.56kb -> 28.89kb (2.27%)
+    /Brain-Tumor/Dataset/no/37 no.jpg -- 6.61kb -> 6.49kb (1.88%)
+    /Brain-Tumor/Dataset/aug_data/no/37 no.jpg -- 6.61kb -> 6.49kb (1.88%)
+    /Brain-Tumor/Dataset/no/30 no.jpg -- 9.12kb -> 8.98kb (1.58%)
+    /Brain-Tumor/Dataset/aug_data/no/30 no.jpg -- 9.12kb -> 8.98kb (1.58%)
+    /Brain-Tumor/Dataset/no/25 no.jpg -- 7.70kb -> 7.59kb (1.38%)
+    /Brain-Tumor/Dataset/aug_data/no/25 no.jpg -- 7.70kb -> 7.59kb (1.38%)
+    /Brain-Tumor/Dataset/aug_data/no/22 no.jpg -- 7.00kb -> 6.95kb (0.6%)
+    /Brain-Tumor/Dataset/no/22 no.jpg -- 7.00kb -> 6.95kb (0.6%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y169.jpg -- 12.36kb -> 12.29kb (0.58%)
+    /Brain-Tumor/Dataset/yes/Y169.jpg -- 12.36kb -> 12.29kb (0.58%)
+    /Brain-Tumor/Dataset/yes/Y13.jpg -- 12.36kb -> 12.29kb (0.58%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y13.jpg -- 12.36kb -> 12.29kb (0.58%)
+    /Brain-Tumor/Dataset/aug_data/no/23 no.jpg -- 8.69kb -> 8.65kb (0.48%)
+    /Brain-Tumor/Dataset/no/23 no.jpg -- 8.69kb -> 8.65kb (0.48%)
+    /Brain-Tumor/Dataset/aug_data/no/10 no.jpg -- 3.76kb -> 3.75kb (0.21%)
+    /Brain-Tumor/Dataset/no/10 no.jpg -- 3.76kb -> 3.75kb (0.21%)
+    /Brain-Tumor/Dataset/no/9 no.jpg -- 3.76kb -> 3.75kb (0.21%)
+    /Brain-Tumor/Dataset/aug_data/no/9 no.jpg -- 3.76kb -> 3.75kb (0.21%)
+    /Brain-Tumor/Dataset/no/39 no.jpg -- 6.91kb -> 6.90kb (0.18%)
+    /Brain-Tumor/Dataset/aug_data/no/39 no.jpg -- 6.91kb -> 6.90kb (0.18%)
+    /Brain-Tumor/Dataset/no/N21.jpg -- 95.37kb -> 95.22kb (0.16%)
+    /Brain-Tumor/Dataset/aug_data/no/N21.jpg -- 95.37kb -> 95.22kb (0.16%)
+    /Brain-Tumor/Dataset/yes/Y53.jpg -- 4.89kb -> 4.89kb (0.14%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y53.jpg -- 4.89kb -> 4.89kb (0.14%)
+    /Brain-Tumor/Dataset/aug_data/no/24 no.jpg -- 5.74kb -> 5.74kb (0.12%)
+    /Brain-Tumor/Dataset/no/24 no.jpg -- 5.74kb -> 5.74kb (0.12%)
+    /Brain-Tumor/Dataset/no/33 no.jpg -- 5.01kb -> 5.01kb (0.1%)
+    /Brain-Tumor/Dataset/aug_data/no/33 no.jpg -- 5.01kb -> 5.01kb (0.1%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y95.jpg -- 5.34kb -> 5.34kb (0.09%)
+    /Brain-Tumor/Dataset/yes/Y95.jpg -- 5.34kb -> 5.34kb (0.09%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y46.jpg -- 55.42kb -> 55.37kb (0.09%)
+    /Brain-Tumor/Dataset/yes/Y46.jpg -- 55.42kb -> 55.37kb (0.09%)
+    /Brain-Tumor/Dataset/yes/Y92.jpg -- 5.07kb -> 5.07kb (0.08%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y92.jpg -- 5.07kb -> 5.07kb (0.08%)
+    /Brain-Tumor/Dataset/no/no 6.jpg -- 7.77kb -> 7.76kb (0.08%)
+    /Brain-Tumor/Dataset/aug_data/no/no 6.jpg -- 7.77kb -> 7.76kb (0.08%)
+    /Brain-Tumor/Dataset/no/29 no.jpg -- 6.25kb -> 6.25kb (0.06%)
+    /Brain-Tumor/Dataset/aug_data/no/29 no.jpg -- 6.25kb -> 6.25kb (0.06%)
+    /Brain-Tumor/Dataset/no/35 no.jpg -- 5.88kb -> 5.88kb (0.05%)
+    /Brain-Tumor/Dataset/aug_data/no/35 no.jpg -- 5.88kb -> 5.88kb (0.05%)
+    /Brain-Tumor/Dataset/no/8 no.jpg -- 7.20kb -> 7.20kb (0.04%)
+    /Brain-Tumor/Dataset/aug_data/no/8 no.jpg -- 7.20kb -> 7.20kb (0.04%)
+    /Brain-Tumor/Dataset/no/38 no.jpg -- 7.20kb -> 7.20kb (0.04%)
+    /Brain-Tumor/Dataset/aug_data/no/38 no.jpg -- 7.20kb -> 7.20kb (0.04%)
+    /Brain-Tumor/Dataset/no/no 3.jpg -- 6.08kb -> 6.08kb (0.03%)
+    /Brain-Tumor/Dataset/aug_data/no/no 3.jpg -- 6.08kb -> 6.08kb (0.03%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y250.jpg -- 6.78kb -> 6.78kb (0.03%)
+    /Brain-Tumor/Dataset/aug_data/yes/Y187.jpg -- 6.78kb -> 6.78kb (0.03%)
+    /Brain-Tumor/Dataset/yes/Y187.jpg -- 6.78kb -> 6.78kb (0.03%)
+    /Brain-Tumor/Dataset/yes/Y250.jpg -- 6.78kb -> 6.78kb (0.03%)
+    /Brain-Tumor/Dataset/aug_data/no/41 no.jpg -- 5.62kb -> 5.62kb (0.02%)
+    /Brain-Tumor/Dataset/no/41 no.jpg -- 5.62kb -> 5.62kb (0.02%)
+    /Brain-Tumor/Dataset/no/40 no.jpg -- 5.62kb -> 5.62kb (0.02%)
+    /Brain-Tumor/Dataset/aug_data/no/40 no.jpg -- 5.62kb -> 5.62kb (0.02%)
+    /Brain-Tumor/Dataset/no/15 no.jpg -- 6.76kb -> 6.76kb (0.01%)
+    /Brain-Tumor/Dataset/aug_data/no/15 no.jpg -- 6.76kb -> 6.76kb (0.01%)
+    
+    Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>
+
+[33mcommit 68af36eacdf8472eced5da5ff79b29491c847f20[m
+Merge: 378efc5 e58c9d5
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Thu Mar 11 19:47:22 2021 +0530
+
+    Merge pull request #70 from psyduck1203/main
+    
+    Stock Price Prediction
+
+[33mcommit 378efc518b3949a6bb3af02824003d5ef9b7f9fe[m
+Merge: 16e8eba c14d8f6
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Thu Mar 11 19:41:06 2021 +0530
+
+    Merge pull request #71 from Amit366/Amit
+    
+    Brain_tumor
+
+[33mcommit e58c9d56835abe65b1ed3df8c6e703fb076bcffa[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 18:15:24 2021 +0530
+
+    Add files via upload
+
+[33mcommit c488d8434de3e6f591e262168e4e85454b337c05[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 17:17:56 2021 +0530
+
+    Delete Movie Recommendation directory
+
+[33mcommit c14d8f62e03a001a8e40958971ff15c0f53fa7e8[m
+Author: Amit kumar mishra <akm43300@gmail.com>
+Date:   Thu Mar 11 17:10:14 2021 +0530
+
+    Update
+
+[33mcommit 36358048b50cac92f09ec098aed905f49a26723c[m
+Merge: e863615 16e8eba
+Author: Amit kumar mishra <akm43300@gmail.com>
+Date:   Thu Mar 11 17:09:23 2021 +0530
+
+    Merge branch 'main' of https://github.com/ashishsahu1/ML-ProjectYard into Amit
+
+[33mcommit 16e8ebaf276b3ea7ee44386995fef9eed11702dd[m
+Merge: a19c58d 3186404
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Thu Mar 11 16:12:48 2021 +0530
+
+    Merge pull request #69 from Dhanush2612/Spam
+    
+    Spam Message Detector
+
+[33mcommit a19c58d17a7a58e8edd017d8dd6c44971f4e3a58[m
+Merge: 8741e48 5a4f89e
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Thu Mar 11 16:11:05 2021 +0530
+
+    Merge pull request #68 from Dhanush2612/Price
+    
+    Bangalore House Prices Prediction
+
+[33mcommit 63728ab2f58457b818f797a743958b6672ab560d[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 15:00:10 2021 +0530
+
+    Created using Colaboratory
+
+[33mcommit 62c5525ebbb2f950bf435d939da58816b5f6b175[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 14:57:37 2021 +0530
+
+    Add files via upload
+
+[33mcommit e86361523fbcc0abfab49355b93bfffe52374919[m
+Author: Amit kumar mishra <akm43300@gmail.com>
+Date:   Thu Mar 11 14:35:41 2021 +0530
+
+    Brain_tumor
+
+[33mcommit b309d0accb170a256a1a05eae6f55d1e49c3024c[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 14:17:06 2021 +0530
+
+    Created using Colaboratory
+
+[33mcommit 29f4d3b0a8cb407c31670f1f78f821fe942f21b9[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 14:14:51 2021 +0530
+
+    Add files via upload
+
+[33mcommit bb67107e13d2b7e0b82884a90261202745c5c828[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 14:14:00 2021 +0530
+
+    Delete Dataset
+
+[33mcommit b379a2bff4b686f592f8e0b52ede3ec571643180[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 14:13:44 2021 +0530
+
+    Create Dataset
+
+[33mcommit b0ba46b58fee42296d7a5983c26f87afb7f438c6[m
+Author: psyduck1203 <58680590+psyduck1203@users.noreply.github.com>
+Date:   Thu Mar 11 14:12:16 2021 +0530
+
+    Created using Colaboratory
+
+[33mcommit 31864041c39c0bfa1b7ce36bc42c0adc8e6ce7c1[m
+Author: dhan2612 <soccerdhanush@gmail.com>
+Date:   Thu Mar 11 13:05:18 2021 +0530
+
+    Spam Message Detector
+    
+    Spam Message Detector model with dataset and its exported model.
+
+[33mcommit 5a4f89e833f03dc063e259d95809200155866dd0[m
+Author: dhan2612 <soccerdhanush@gmail.com>
+Date:   Thu Mar 11 12:48:46 2021 +0530
+
+    Bangalore House Prices Prediction
+
+[33mcommit 8741e48cc7715030175e807250bdd75c37aa9255[m
+Merge: 748d98f ea7b6e8
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Thu Mar 11 02:18:02 2021 +0530
+
+    Merge pull request #57 from aishwaryachand/issue-5
+    
+    Added gold price prediction issue#5
+
+[33mcommit ea7b6e8fa32d7c88b86aacf555fd72dc29b971d9[m
+Author: Aishwarya Chand <aishwarya7811@gmail.com>
+Date:   Wed Mar 10 21:26:56 2021 +0100
+
+    added gold price prediction
+
+[33mcommit 748d98f42b00980db91d909d2c05b06681dfc192[m
+Merge: 27c9c99 f8ff9d4
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Wed Mar 10 22:59:23 2021 +0530
+
+    Merge pull request #51 from rohansharma4050/fakenewsproject
+    
+    added fake news prediction project
+
+[33mcommit 27c9c9905766519c2aeb2a917fb01a4d9c630a9c[m
+Merge: 59bdc51 af1cfe3
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Wed Mar 10 22:52:55 2021 +0530
+
+    Merge pull request #49 from Dhanush2612/Cloak
+    
+    Invisibility Cloak
+
+[33mcommit f8ff9d4918602034449816bdb0490b80d8831cdf[m
+Author: rohansharma4050 <rohansharma4050@gmail.com>
+Date:   Wed Mar 10 22:25:51 2021 +0530
+
+    added fake news prediction project
+
+[33mcommit af1cfe35a755265ab4f4691ca8d4ed2acccb7743[m
+Author: dhan2612 <soccerdhanush@gmail.com>
+Date:   Wed Mar 10 21:32:01 2021 +0530
+
+    Invisibility Cloak
+
+[33mcommit 59bdc512c7e88b019ec368eaa4e58a6221fe907a[m
+Merge: 0a62e05 dc1799c
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Wed Mar 10 20:36:09 2021 +0530
+
+    Merge pull request #44 from Amit366/Amit
+    
+    Uber analysis
+
+[33mcommit dc1799c324042eba213a7c8533084936614c8e17[m
+Author: Amit kumar mishra <akm43300@gmail.com>
+Date:   Wed Mar 10 15:26:34 2021 +0530
+
+    Uber analysis
+
+[33mcommit 0a62e0525469cd5b3916879046edd1e910b67b7c[m
+Merge: 51a40c2 fb3dee2
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Wed Mar 10 13:07:53 2021 +0530
+
+    Merge pull request #41 from ashishsahu1/imgbot
+    
+    [ImgBot] Optimize images
+
+[33mcommit fb3dee20c1189502715eb08362968244d1086427[m
+Author: ImgBotApp <ImgBotHelp@gmail.com>
+Date:   Wed Mar 10 07:35:31 2021 +0000
+
+    [ImgBot] Optimize images
+    
+    *Total -- 98.04kb -> 69.42kb (29.19%)
+    
+    /WineQualityTest/imgs/pH.png -- 7.61kb -> 3.97kb (47.83%)
+    /WineQualityTest/imgs/citricredacid.png -- 7.54kb -> 4.11kb (45.49%)
+    /WineQualityTest/imgs/alcohol.png -- 7.64kb -> 4.20kb (45.02%)
+    /WineQualityTest/imgs/quality.png -- 4.71kb -> 3.08kb (34.58%)
+    /WineQualityTest/imgs/chlorides.png -- 7.98kb -> 6.00kb (24.76%)
+    /WineQualityTest/imgs/sulphates.png -- 8.84kb -> 6.66kb (24.68%)
+    /WineQualityTest/imgs/density.png -- 10.02kb -> 7.64kb (23.79%)
+    /WineQualityTest/imgs/fixedredacidity.png -- 8.48kb -> 6.51kb (23.24%)
+    /WineQualityTest/imgs/freeredsulfurreddioxide.png -- 9.14kb -> 7.04kb (22.96%)
+    /WineQualityTest/imgs/residualredsugar.png -- 8.31kb -> 6.42kb (22.76%)
+    /WineQualityTest/imgs/volatileredacidity.png -- 8.94kb -> 6.93kb (22.48%)
+    /WineQualityTest/imgs/totalredsulfurreddioxide.png -- 8.83kb -> 6.86kb (22.27%)
+    
+    Signed-off-by: ImgBotApp <ImgBotHelp@gmail.com>
+
+[33mcommit 51a40c221dd74f1d567eeb89e23f0ad234707ab7[m
+Merge: 278df7e 8aefdb9
+Author: Ashish Sahu <52550558+ashishsahu1@users.noreply.github.com>
+Date:   Wed Mar 10 13:04:06 2021 +0530
+
+    Merge pull request #38 from codername-123/iris_flower_classification
+    
+    Iris flower classification
+
+[33mcommit 278df7e7332f2c1bde27fde5eb90b433806422bf[m
+Merge: e
