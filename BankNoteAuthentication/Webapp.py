@@ -25,7 +25,7 @@ df = user_input_features()
 st.subheader('User Input parameters')
 st.write(df)
 
-model_in = open("./exported-model/model2-svc.joblib","rb")
+model_in = open("Model/model2-svc.joblib","rb")
 classifier = joblib.load(model_in)
 
 prediction = classifier.predict(df)
