@@ -32,11 +32,11 @@ class model(object):
         # getting the tweets form twitter using The Twitter aap and tweepy
         # Demo of getting text from twitter
 
-        tweet_live = api.search(text)
-        for tweet in tweet_live:
-            tweet_is = tweet.text
-            # for demo added a print statement
-            print(tweet_is)
+        tweet_live = api.search(text, tweet_mode='extended')
+        # for tweet in tweet_live:
+        #     tweet_is = tweet.text
+        #     for demo added a print statement
+        #     print(tweet_is)
         return tweet_live
 
     def analysis_live_tweet_data(self, text):
@@ -49,7 +49,7 @@ class model(object):
         for tweet in tweet_live:
             tweet_is = tweet.text
             analysis = TextBlob(tweet_is)
-            print(analysis.sentiment)
+            # print(analysis.sentiment)
 
     def detailed_analysis_tweet_data(self, text):
         # if polarity is in negative then the tweet is negative
@@ -57,20 +57,22 @@ class model(object):
         # if polarity is greater then 0 and less then 5 then tweet is neutral
 
         tweet_live = self.get_live_tweets_from_Twitter(text)
+        result = []
         for tweet in tweet_live:
-            tweet_is = tweet.text
-            analysis = TextBlob(tweet_is)
-            polarity = TextBlob(tweet_is).sentiment.polarity
-            subjectivity = TextBlob(tweet_is).sentiment.subjectivity
-            print("tweet = ", tweet_is)
-            print("polarity =", polarity)
-            print('*' * 20)
-            print("subjectivity =", subjectivity)
-            print('*' * 20)
-            print('*' * 30)
+            polarity = TextBlob(tweet.full_text).sentiment.polarity
+            subjectivity = TextBlob(tweet.full_text).sentiment.subjectivity
+            # print("polarity =", polarity)
+            # print('*' * 20)
+            # print("subjectivity =", subjectivity)
+            # print('*' * 20)
+            # print('*' * 30)
+            result.append([tweet.full_text, polarity, subjectivity])
+        return result
 
 
 if __name__ == "__main__":
     ob = model()
-    text = ""
+    text = "black"
     ob.get_live_tweets_from_Twitter(text)
+    res = ob.detailed_analysis_tweet_data(text)
+    print(res)
