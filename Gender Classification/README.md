@@ -2,7 +2,7 @@
 
 # Gender Classification using Python
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![tensorflow](https://img.shields.io/badge/Library-Tensorflow-orange.svg)
 
 
 ## Techstack: 
