@@ -17,8 +17,8 @@ Screen Shot of the Model : [SS](ReadMe_Resources/Screenshot (263).png)
 To Run Model in :
 1. Download all requirements
 2. Download The Dataset : [Here](https://www.kaggle.com/ashishjangra27/gender-recognition-200k-images-celeba)
-3. Run the Notebook to generate H5 File ```Gender_Classifiaction.ipynb```
-4. Now run command ```python app.py````
+3. Run the Notebook to generate H5 File ```Gender_Classification.ipynb```
+4. Now run command ```python app.py```
 5. And Boom !! There is you're WebApp
 
 
