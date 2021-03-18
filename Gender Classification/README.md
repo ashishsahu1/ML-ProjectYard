@@ -12,8 +12,7 @@
              * Python(Flask as Backend)
              
 
-Screen Shot of the Model :
-![SS](ReadMe_Resources/Screenshot (263).png)
+Screen Shot of the Model : [SS](ReadMe_Resources/Screenshot (263).png)
 
 
 To Run Model in :
