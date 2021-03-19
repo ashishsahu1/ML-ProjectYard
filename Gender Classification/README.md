@@ -24,5 +24,5 @@ To Run Model in :
 
 
 
-Refrences: https://cs224d.stanford.edu/reports/BartleAric.pdf
-H5 File : [Download](https://drive.google.com/file/d/1qQSOGJRQze7EGDQ7_SuD7WOAidhWAslE/view?usp=sharing)
+# Refrences: https://cs224d.stanford.edu/reports/BartleAric.pdf
+# H5 File : [Download](https://drive.google.com/file/d/1qQSOGJRQze7EGDQ7_SuD7WOAidhWAslE/view?usp=sharing)
