@@ -6,7 +6,7 @@ import dlib
 
 image = cv2.imread("Enter The name of the image here")
 
-#USING THE CNN FILE FROM DLIB libraray
+#USING THE CNN FILE FROM DLIB LIBRARY
 
 face_detector = dlib.cnn_face_detection_model_v1('mmod_human_face_detector.dat')
 detections = face_detector(image,1)
