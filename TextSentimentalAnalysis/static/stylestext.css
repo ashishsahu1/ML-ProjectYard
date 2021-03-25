@@ -1,0 +1,120 @@
+html{
+	height: 100%;
+	margin: 0;
+}
+
+body{
+	font-family: Arial, Helvetica,sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+/* Website Title */
+.container{
+    background-color: #f9f9f9;
+	padding: 30px;
+	position: relative;
+	background: linear-gradient(45deg, #ffffff, #ffffff, #f9f9f9, #eeeeee, #e0e4e1, #d7e1ec);
+	background-size: 500% 500%;
+	animation: change-gradient 10s ease-in-out infinite;
+}
+@keyframes change-gradient {
+	0%{
+		background-position: 0 50%;
+	}
+	50%{
+		background-position: 100% 50%;
+	}
+	100%{
+		background-position: 0 50%;
+	}
+}
+
+.container-heading{
+    margin: 0;
+}
+
+.heading_font{
+    color: #ff8000;
+	font-family: 'Yatra One', cursive;
+	font-size: 27px;
+}
+
+.description p{
+    font-style: italic;
+    font-size: 14px;
+    margin: 3px 0 0;
+}
+
+/* Text Area */
+.ml-container{
+    margin: 30px 0;
+	flex: 1 0 auto;
+}
+
+.message-box{
+    margin-bottom: 20px;
+}
+
+/* Predict Button */
+.my-cta-button{
+    background: #f9f9f9;
+    border: 2px solid #000000;
+    border-radius: 1000px;
+    box-shadow: 3px 3px #8c8c8c;
+    padding: 10px 36px;
+    color: #000000;
+    display: inline-block;
+    font: italic bold 20px/1 "Calibri", sans-serif;
+    text-align: center;
+}
+
+.my-cta-button:hover{
+    color: #ff8000;
+    border: 2px solid #ff8000;
+}
+
+.my-cta-button:active{
+    box-shadow: 0 0;
+}
+
+/* Footer */
+.footer{
+    font-size: 14px;
+	padding: 20px;
+	flex-shrink: 0;
+	position: relative;
+	background: linear-gradient(45deg, #ffffff, #ffffff, #f9f9f9, #eeeeee, #e0e4e1, #d7e1ec);
+	background-size: 500% 500%;
+	animation: change-gradient 10s ease-in-out infinite;
+}
+
+.contact-icon{
+	color: #000000;
+	padding: 7px;
+}
+
+
+.contact-icon:hover{
+	color: #8c8c8c;
+}
+
+.footer-description{
+	margin: 0;
+	font-size: 12px;
+}
+
+/* Result */
+.results{
+	padding: 30px 0 0;
+	flex: 1 0 auto;
+}
+
+.result-prediction{
+	color: #ff8000;
+}
