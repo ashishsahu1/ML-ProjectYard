@@ -37,7 +37,7 @@ img_edge = cv2.cvtColor(img_edge, cv2.COLOR_GRAY2RGB)
 #plt.show()
 # img_edge = cv2.cvtColor(img_edge, cv2.COLOR_GRAY2RGB)
      
-array = cv2.bitwise_or(img_edge, image)    #used bitwise xor method
+array = cv2.bitwise_or(img_edge, image)    #used bitwise or method
 #array = cv2.bitwise_not(image, img_edge) 
 plt.figure(figsize= (10,10))
 plt.imshow(array)
