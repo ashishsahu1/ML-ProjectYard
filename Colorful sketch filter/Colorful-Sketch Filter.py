@@ -8,8 +8,6 @@ import os.path
 image_path = input("Enter the path here:")  # example -> C:\Users\xyz\OneDrive\Desktop\project\image.jpg  
 img = cv2.imread(image_path)
 
-#C:\Users\akrit\OneDrive\Desktop\Ghostifying\images\c7_.jpg
-
 image = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 image_small = cv2.pyrDown(image)
 num_iter = 5
