@@ -125,7 +125,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 | 68 |[Water Soil Wetness Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Water%20Soil%20Wetness%20Prediction)|CNN model to  predict wetness of  soil wetness (either soil is dry,wet or extreamly wet)|
 | 69 | [Weather Forecasting](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Weather%20Forecasting) | Weather prediction using Decision Tree Regressor|
 | 70 | [Wine Quality Test](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/WineQualityTest) | Prediction of wine quality based of different amount of element present in wine |
-| 71 |[Food Outlet Profit Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/food%20outlet%20profit%20prediction)|Predicting the profit for a food outlet based on population of the area.| 
+| 71 |[Food Outlet Profit Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/food%20outlet%20profit%20prediction)|Predicting the profit for a food outlet based on population of the area.|
 
 ## Contributors:
 
