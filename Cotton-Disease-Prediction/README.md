@@ -9,7 +9,7 @@
              * Python(Flask as Backend)
              
 
-Screen Shot of the Model : [SS]()
+Screen Shot of the Model : [SS](Leaf_Prediction.png)
 
 
 # To Run Model in :
