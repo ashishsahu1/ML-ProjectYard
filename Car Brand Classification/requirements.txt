@@ -39,7 +39,7 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 Keras-Preprocessing==1.1.2
 kiwisolver==1.2.0
-lxml==4.5.1
+lxml==4.6.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.2.1
