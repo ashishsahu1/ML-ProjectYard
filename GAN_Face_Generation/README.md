@@ -1,5 +1,5 @@
 
-# Generating Faces using GANs
+# Generating Faces using GAN
 
 DataSet: [CelebFaces Attributes Dataset (CelebA)](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) to train the adversarial networks.
 
