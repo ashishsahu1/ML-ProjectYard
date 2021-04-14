@@ -12,6 +12,7 @@ We tried two models:
 I collected the data from two websites:  
 1- [accuweather](https://www.accuweather.com/en/us/new-york/10007/january-weather/349727?year=2020)  
 2- [worldometers](https://www.worldometers.info/coronavirus/)  
+3- Some data have been collected from [kaggle](https://www.kaggle.com/)
 
 ## Data Info:
 > **Data Summary:**  
