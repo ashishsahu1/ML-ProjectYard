@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MLAppTemplate</string>
+    <string name="response">response from Api</string>
+    <string name="connect">ConnectButton</string>
+    <string name="enter_url_here">enter url here</string>
+    <string name="input_data">Input data</string>
+    <string name="predict">predict</string>
+</resources>
