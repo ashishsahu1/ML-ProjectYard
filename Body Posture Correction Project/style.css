@@ -1,0 +1,20 @@
+body {
+  background: -webkit-linear-gradient(top left, #50a3a2 0%, #4c1385 100%);
+}
+
+button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #4c1385;
+  border-radius: 3px;
+  width: 250px;
+  cursor: pointer;
+  font-size: 18px;
+  transition-duration: 0.25s;
+}
+button:hover {
+  background-color: rgb(245, 247, 249);
+}
