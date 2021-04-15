@@ -10,47 +10,64 @@
 
     <TextView
             android:text="@string/response"
-            android:layout_width="308dp"
-            android:layout_height="70dp" android:id="@+id/responseView"
-            android:textSize="30sp"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintHorizontal_bias="0.563" app:layout_constraintVertical_bias="0.481"/>
+            android:layout_width="333dp"
+            android:layout_height="100dp"
+            android:id="@+id/responseView"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintVertical_bias="0.82" android:gravity="center_horizontal"/>
     <Button
             android:text="@string/connect"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/connectBtn"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintHorizontal_bias="0.498" app:layout_constraintVertical_bias="0.311"/>
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintVertical_bias="0.215"/>
     <EditText
             android:layout_width="296dp"
             android:layout_height="65dp"
             android:ems="10"
             android:inputType="textUri"
             android:id="@+id/urlEditText"
+            android:hint="@string/enter_url_here"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintBottom_toTopOf="@+id/connectBtn" app:layout_constraintVertical_bias="0.648"
-            android:autofillHints="" android:text="@string/enter_url_here"/>
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toTopOf="@+id/connectBtn"
+            app:layout_constraintVertical_bias="0.817"
+            android:autofillHints=""
+            app:layout_constraintHorizontal_bias="0.495"/>
     <EditText
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="294dp"
+            android:layout_height="72dp"
             android:inputType="textPersonName"
-            android:text="@string/input_data"
             android:ems="10"
+            android:hint="@string/input_data"
             android:id="@+id/inputEditText"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/connectBtn"
-            app:layout_constraintVertical_bias="0.425" android:autofillHints=""
+            app:layout_constraintVertical_bias="0.24"
+            android:autofillHints=""
             app:layout_constraintBottom_toBottomOf="parent"/>
     <Button
             android:text="@string/predict"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content" android:id="@+id/predictBtn"
+            android:layout_height="wrap_content"
+            android:id="@+id/predictBtn"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/inputEditText" app:layout_constraintVertical_bias="0.224"
-            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintHorizontal_bias="0.498"/>
+            app:layout_constraintTop_toBottomOf="@+id/inputEditText"
+            app:layout_constraintVertical_bias="0.118"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
