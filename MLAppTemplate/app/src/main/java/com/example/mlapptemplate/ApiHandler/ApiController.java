@@ -1,6 +1,5 @@
 package com.example.mlapptemplate.ApiHandler;
 
-import android.content.Context;
 import android.util.Log;
 import android.widget.TextView;
 import com.google.gson.JsonObject;
@@ -12,27 +11,16 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 
 public class ApiController {
 
     private final String TAG = "ApiController";
-    private final List<String> res = new ArrayList<>();
     private String url;
     private ApiServiceProvider apiServiceProvider;
-    private Context context;
-    private ResponseBody responseBody;
 
-    public List<String> getRes() {
-        return res;
-    }
-
-    public ApiServiceProvider getApiServiceProvider() {
-        return apiServiceProvider;
-    }
 
     public void createSession(String inputUrl) {
+        Log.d(TAG, "createSession: Session is being created");
         url = inputUrl;
         connect();
     }
@@ -45,14 +33,15 @@ public class ApiController {
             apiServiceProvider = retrofit.create(ApiServiceProvider.class);
             Log.d(TAG, "connect: connected ");
         } catch (Exception e) {
-            Log.e(TAG, "error :", e);
+            Log.e(TAG, "error while creating a session :", e);
         }
     }
 
     public void webHookHandler(String inputData, TextView responseBtn) throws IOException {
-        Log.d(TAG, "webHookHandler: " + inputData);
+        Log.d(TAG, "webHookHandler: Input Data for prediction = " + inputData);
         JsonObject jsonObject = new JsonObject();
         jsonObject.addProperty("data", inputData);
+        Log.d(TAG, "webHookHandler: Data callRequest = "+jsonObject);
         Call<ResponseBody> ab = apiServiceProvider.sendDataToWebHook(jsonObject);
         ab.enqueue(new Callback<ResponseBody>() {
             @Override
@@ -60,11 +49,17 @@ public class ApiController {
                 if (response.isSuccessful()) {
                     try {
                         if (response.body() != null) {
-                            responseBtn.setText(response.body().string());
+                            ResponseBody result = response.body();
+                            responseBtn.setText(result.string());
+                            Log.d(TAG, "onResponse: Response from the APi "+result.toString());
+                        }else{
+                            Log.d(TAG, "onResponse: Null returned from API");
                         }
                     } catch (Exception e) {
-                        Log.d(TAG, "onResponse: error while getting the response data /n", e);
+                        Log.d(TAG, "onResponse: error while getting the response data ", e);
                     }
+                }else{
+                    Log.d(TAG, "onResponse: no response from the API");
                 }
             }
 
@@ -73,7 +68,6 @@ public class ApiController {
                 Log.e(TAG, "onFailure: ", t);
             }
         });
-        Log.d(TAG, "webHookHandler: 11");
     }
 
 
