@@ -1,5 +1,8 @@
 
 
+
+<h1 align="center">Hello developers! Welcome to ML-ProjectYard!👋</h1>
+
 ![Web 1920 – 3](https://user-images.githubusercontent.com/52550558/109395363-f4204700-7951-11eb-8e18-47477c44c0cb.png)
 
 <center>
@@ -15,44 +18,47 @@
 </center>
 
 
+> This is the one stop open-source destination for all the projects based on `Machine Learning`, `Deep Learning`, `NLP`,`Computer Vision` and everything includes `frontend` and `backend`!
 
-# About ML-ProjectYard
-
-
-ML-ProjectYard is a curated place for all `Machine Learning`, `Deep Learning`, `NLP`,`Computer Vision` based __projects__ with `frontend` and `backend`.
-
-These projects would be deployable ready and can be deployed at any of the platforms with minimum tweaks.
-
-These projects will also help in practical learning for new ML/AI enthusiasts. 
-
-## Project Divisions 
-This project is for everyone with any tech stacks. ML, DL, NLP, CV enthusiasts, UI/UX designers, frontend designers, backend developers everyone has some tasks for you.
-
-- Data Analysts
-    - Frame the problem, Get the data, Explore the data,Prepare the data
-- ML, DL, NLP, CV enthusiasts
-    - Try different algorithms, build model, fine tuning the model if required
-- UI/UX designers
-    - Design dashboards,froms, webpages for the model 
-- Backend Developers
-    - Create Backend for the model using Flask or Django
-- Frontend Designers
-    - Design/code the webpage designed by designers.
+```sh
+All these projects are deployable ready and are very beginner-friendly!
+These are the projects that would help you master the ML/AI algorithms and make you a pro! 
+```
 
 
-## Contributing to ML-ProjectYard
+
+## CAN YOU BE A PART OF THIS PROJECT? :
+
+If you are anyone who is ealted to tech and are looking to contribute to an open-source organization, this is the place!
+ML, DL, NLP, CV enthusiasts, UI/UX designers, frontend designers, backend developers, everyone you can think of has a task here.
+
+```js
+   const myvar = "hello"
+  	Description : [	- Open-source project,
+                 	- Strongly recommended for beginners 
+                 	- The one-stop destination for all the ML/AI projects!⚡ 
+  	],
+  	Data Analysts : [ - Frame the problem,
+			  - Get the data,
+			  - Explore the data,
+			  - Prepare the data
+	],
+  	ML, DL, NLP, CV enthusiasts : [ - Try different algorithms,
+				        - build model,
+				        - fine tuning the model if required
+	],
+	UI/UX designers : [ - Design dashboards,froms, webpages for the model ],
+	Backend Developers : [ - Create Backend for the model using Flask or Django]
+	Frontend Designers : [- Design/code the webpage designed by designers]
+```
+
+## WELCOME, </JOIN US>
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to ML-ProjectYard, follow these steps:
+If you worked on a unique project and want to share it with the world, you cando that through us and join our beloved sea of contributers. Look through out contributind guidelines in [`CONTRIBUTING.md`](https://github.com/ashishsahu1/ML-ProjectYard/blob/main/CONTRIBUTING.md)👩‍💻
 
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
+Subsequently, also through the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## Index
+## LOOK THROUGH THE YARD OF UNIQUE PROJECTS!
 | S.no | Project Name | Description |
 | --------------- | --------------- | --------------- |
 | 1 | [Airbnb Price Prediciton](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Airbnb%20Price%20Prediction) | Predicting price of airbnb room based on parameters like neighbourhood, reviews, availability, etc. |
@@ -125,11 +131,9 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 | 68 |[Water Soil Wetness Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Water%20Soil%20Wetness%20Prediction)|CNN model to  predict wetness of  soil wetness (either soil is dry,wet or extreamly wet)|
 | 69 | [Weather Forecasting](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/Weather%20Forecasting) | Weather prediction using Decision Tree Regressor|
 | 70 | [Wine Quality Test](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/WineQualityTest) | Prediction of wine quality based of different amount of element present in wine |
-| 71 |[Food Outlet Profit Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/food%20outlet%20profit%20prediction)|Predicting the profit for a food outlet based on population of the area.| 
+| 71 |[Food Outlet Profit Prediction](https://github.com/ashishsahu1/ML-ProjectYard/tree/main/food%20outlet%20profit%20prediction)|Predicting the profit for a food outlet based on population of the area.|
 
-## Contributors:
-
-### Credits goes to these people:✨
+## HALL OF FAME: ✨
 
 <table>
 	<tr>
