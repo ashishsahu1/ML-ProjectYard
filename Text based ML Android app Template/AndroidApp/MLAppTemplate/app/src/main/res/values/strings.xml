@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multipurpose ML App Template</string>
+    <string name="response">Response from Api will be showed here </string>
+    <string name="connect">Connect</string>
+    <string name="enter_url_here">Enter API url here</string>
+    <string name="input_data">enter your request data for API here </string>
+    <string name="predict">Predict</string>
+</resources>
