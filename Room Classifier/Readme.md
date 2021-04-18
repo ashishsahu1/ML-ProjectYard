@@ -12,3 +12,10 @@ Link to the dataset - https://www.kaggle.com/cdawn1/messy-vs-clean-room
 # Results
 The model in the end gave decent results. With validation accuracy of 95% and training accuracy of 98%, the model could have been better if we had a little bit more data. More data always helps in training better models.
 
+<p align="center">
+<img src="https://github.com/AM1CODES/ML-ProjectYard/blob/main/Room%20Classifier/Results/clean_result.PNG" alt="drawing" width="600"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/AM1CODES/ML-ProjectYard/blob/main/Room%20Classifier/Results/clean_result1.PNG" alt="drawing" width="600"/>
+</p>
