@@ -61,8 +61,7 @@ python clown.py
 ```
 python moustache.py
 
-
-
+```
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
