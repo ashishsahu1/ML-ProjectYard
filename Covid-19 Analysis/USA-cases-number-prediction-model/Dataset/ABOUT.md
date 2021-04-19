@@ -5,8 +5,8 @@ I collected the data from two websites:
 3- Some data have been collected from [kaggle](https://www.kaggle.com/)
 
 ## Data Info:
-> **Data Summary:**  
-1- **date**   
+### Columns:  
+> 1- **date**   
 2- **year**  
 3- **month**  
 4- **day**  
