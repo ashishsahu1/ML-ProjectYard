@@ -30,3 +30,17 @@ I collected the data from two websites:
 12- **temp_low** (the tempreature of the mentioned date at the night)  
 13- **moving_avg_temp_high** (the moving average of temp_high of the previous 7 days from the mentioned date)  
 14- **moving_avg_temp_low** (the moving average of temp_low of the previous 7 days from the mentioned date)
+
+## Analysis
+### Plots for visualizing relations between feautres and cases number in USA 
+![1](https://user-images.githubusercontent.com/68667962/115278402-b1a30b80-a145-11eb-8781-022245510c4a.png)
+### Correlation Coefficients for all features**  
+![2](https://user-images.githubusercontent.com/68667962/115278484-ca132600-a145-11eb-8a6f-d8e06b4f26e9.png)
+
+## Models
+### 1- Linear Regression Model. 
+![3](https://user-images.githubusercontent.com/68667962/115278538-dac39c00-a145-11eb-8cc6-607666380368.png)
+### 2- Random Forest Model.  
+![4](https://user-images.githubusercontent.com/68667962/115278569-e3b46d80-a145-11eb-8415-0389f5d90d78.png)
+
+> **Conclusion: we can notice that the linear regression model is more realistic and fitting the data more properly than the second one even with small STD becasue the second model is overfitting the data.**
