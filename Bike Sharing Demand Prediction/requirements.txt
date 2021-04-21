@@ -1,0 +1,8 @@
+** Libraries Used In this Project **
+
+streamlit 
+numpy
+pandas
+matplotlib
+scikit-learn
+pickle
