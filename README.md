@@ -1,5 +1,5 @@
 
-##About
+## About
 
 In this project we need to Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’. Our objectives;-
 
