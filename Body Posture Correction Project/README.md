@@ -33,10 +33,16 @@ https://unpkg.com/ml5@0.2.3/dist/ml5.min.js
 #### Project Demo
 
 When the user is still and maintaining the correct posture, the camera shows a clear image
+
+
 ![Still image](./images/ss1.png)
 
 
+
+
 When the user leans back or move sideways, the screen blurs completely and sends an alert sound. This alerts the user regarding incorrect posture. The screen becomes normal only when the user sits in the correct posture.
+
+
 ![Blur image](./images/ss2.png)
 
 
