@@ -1,0 +1,61 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+<div class="container">
+
+    <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel" style="padding: 10px;">
+        <div class="carousel-inner">
+
+            <div class="carousel-item active">
+                <img src="../static/guideimages/step1.png" class="d-block w-100" height="500px" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color: darkviolet;"><strong><em>Paste your news here...</em></strong>
+                    </h5>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="../static/guideimages/step2.png" class="d-block w-100" height="500px" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color: darkviolet;"><strong><em>See your results here...</em></strong></h5>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="../static/guideimages/Distribution_wordCloud.png" class="d-block w-100" height="500px"
+                    alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color: darkviolet;"><strong><em>See the data distribution and Word Cloud
+                                here...</em></strong></h5>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="../static/guideimages/sampleData.png" class="d-block w-100" height="500px" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color: darkviolet;"><strong><em>See five random samples here...</em></strong></h5>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <img src="../static/guideimages/wordEmbedding.png" class="d-block w-100" height="500px" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5 style="color: darkviolet;"><strong><em>See your word embedding plot here...</em></strong></h5>
+                </div>
+            </div>
+
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only"></span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only"></span>
+        </a>
+    </div>
+
+</div>
+
+{% endblock %}
