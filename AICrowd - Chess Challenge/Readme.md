@@ -14,3 +14,7 @@ To solve this problem i experimented with many custom architectures but all of t
 
 The training accuracy reached upto 92% on 10 epochs but the testing accuracy didn't seem to be good and was at 50-52% which means the model was underfitting.
 Maybe  experimenting with the number of epochs could get better results but i feel a new architectural approach would give more robust model.
+
+<p align="center">
+<img src="https://github.com/AM1CODES/ML-ProjectYard/blob/main/AICrowd%20-%20Chess%20Challenge/Model/acc_result.png" alt="drawing" width="400"/>
+</p>
