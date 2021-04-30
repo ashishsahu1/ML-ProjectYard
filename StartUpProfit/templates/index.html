@@ -1,0 +1,106 @@
+{% extends 'base.html'%}
+{% block design %}
+<style>
+body {
+    background-color: #5C6BC0;
+    color: #FFFFFF;
+  
+}
+
+.box {
+    margin: auto
+}
+
+.card {
+    padding: 8%;
+    padding-top: 35px;
+    margin-top: 60px;
+    margin-bottom: 80px
+}
+
+textarea[name="message"] {
+    resize: none
+}
+
+#e-mail {
+    height: 45px
+}
+
+#message {
+    height: 120px
+}
+
+input.input-box,
+textarea.input-box {
+    background-color: #616161;
+    border: #616161;
+    color: #BDBDBD
+}
+
+input.input-box:focus,
+textarea.input-box:focus {
+    background-color: #000000;
+    color: #BDBDBD
+}
+
+.rm-border:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+form .form-control::-webkit-input-placeholder {
+    color: #9E9E9E
+}
+
+::-moz-placeholder {
+    color: #9E9E9E !important
+}
+
+input.btn-purple {
+    background-color: #5C6BC0;
+    color: #ffffff
+}
+</style>
+{%  endblock design %}
+
+{% block body %}
+
+<div class="bg-light">
+    <div class="container">
+        <div class="row justify justify-content-center">
+            <div class="col-11 col-md-8 col-lg-6 col-xl-5">
+                <form class="" action="{% url 'result' %}"> 
+                {% csrf_token %}
+                    <div class="card bg-dark">
+                        <div class="row mt-0">
+                            <div class="col-md-12 ">
+                                <h4 class="">Welcome to the StartUp profit predictor website</h4>
+                            </div>
+                        </div>
+                        <div class="form-group row mb-3">
+                            <div class="col-md-12 mb-0">
+                                <p class="mb-1">Research and Development cost: </p> <input id="r" type="text" placeholder=" Enter amount" name="r" class="form-control input-box rm-border">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-md-12 mb-2">
+                                <p class="mb-1">Administration cost: </p> <input id="a" type="text" placeholder=" Enter amount" name="a" class="form-control input-box rm-border">
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+                            <div class="col-md-12 mb-2">
+                                <p class="mb-1">Marketing cost: </p> <input id="m" type="text" placeholder=" Enter amount" name="m" class="form-control input-box rm-border">
+                            </div>
+                        </div>
+                        <div class="form-group row justify-content-center mb-0">
+                            <div class="col-md-12 px-3"> <input type="submit" value="Submit" class="btn btn-block btn-purple rm-border"> </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock body %}
