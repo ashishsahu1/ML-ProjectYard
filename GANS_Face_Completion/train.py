@@ -68,8 +68,8 @@ checkpoint_dir = 'drive/MyDrive/ColabNotebooks/GANS/training_checkpoints'
 checkpoint_prefix = os.path.join(checkpoint_dir, "ckpt")
 checkpoint = tf.train.Checkpoint(generator_optimizer=optimizer,
                                  discriminator_optimizer=optimizer,
-                                 generator=generator_network,
-                                 discriminator=discriminator_network)
+                                 generator=generator,
+                                 discriminator=discriminator)
 
 data_train = filenames[:3000]
 
