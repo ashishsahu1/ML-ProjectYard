@@ -1,4 +1,4 @@
-# YOLOFace
+
 
 # Deep learning based Face detection using the YOLOv3 algorithm
 
