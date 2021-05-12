@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Salary Prediction</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script>
+      $('#python_yn').on('change', function(){
+         this.value = this.checked ? 1 : 0;
+      }).change();
+       $('#R_yn').on('change', function(){
+         this.value = this.checked ? 1 : 0;
+      }).change();
+       $('#tableau').on('change', function(){
+         this.value = this.checked ? 1 : 0;
+      }).change();
+       $('#power bi').on('change', function(){
+         this.value = this.checked ? 1 : 0;
+      }).change();
+       $('#ml').on('change', function(){
+         this.value = this.checked ? 1 : 0;
+      }).change();
+       $('#dl').on('change', function(){
+         this.value = this.checked ? 1 : 0;
+      }).change();
+    </script> 
+  </head>
+  <body style="background-color: #f0e68c;">
+
+    <div class="container" style="text-align: center;"  >
+      <h1>Salary Prediction </h1>
+    </div><br>
+  
+    <div class="container">
+      <div class="form-group">
+        <form action="{{ url_for('predict')}}" method="post" class="form-group">
+          <label for="job_state" class="col-sm-2 col-form-label"><b>Enter the state</b></label>
+          <select id="job_state" name="job_state" class="form-control"> 
+              <option value="AL">Alabama, AL</option> 
+              <option value="AZ">Arizona, AZ</option> 
+              <option value="CA">California, CA</option> 
+              <option value="CO">Colorado, CO</option> 
+              <option value="CT">Connecticut, CT</option> 
+              <option value="DC">District of Columbia, DC</option> 
+              <option value="FL">Florida,FL</option> 
+              <option value="GA">GA</option> 
+              <option value="IA">Georgia, IA</option> 
+              <option value="IL">Illinois, IL</option> 
+              <option value="IN">Indiana, IN</option> 
+              <option value="KS">Kansas, KS</option> 
+              <option value="KY">Kentucky, KY</option> 
+              <option value="LA">Louisiana, LA</option> 
+              <option value="MA">Massachusetts, MA</option> 
+              <option value="ME">Maine, ME</option> 
+              <option value="MI">Michigan, MI</option> 
+              <option value="MN">Minnesota, MN</option> 
+              <option value="MO">Missouri, MO</option> 
+              <option value="MS">Mississippi, MS</option> 
+              <option value="NC">North Carolina, NC</option> 
+              <option value="NE">Nebraska, NE</option> 
+              <option value="NJ">New Jersey, NJ</option> 
+              <option value="NM">New Mexico, NM</option> 
+              <option value="NY">New York, NY</option> 
+              <option value="OH">Ohio, OH</option> 
+              <option value="OK">Oklahoma, OK</option> 
+              <option value="O">Oregon, OR</option> 
+              <option value="PA">Pennsylvania, PA</option> 
+              <option value="SC">South Carolina, SC</option> 
+              <option value="TN">Tennessee, TN</option> 
+              <option value="TX">Texas, TX</option> 
+              <option value="UT">Utah, UT</option> 
+              <option value="VA">Virginia, VA</option> 
+              <option value="WA">Washington, WA</option> 
+              <option value="WI">Wisconsin, WI</option> 
+              <option value="WV">West Virginia, WV</option> 
+            </select><br>
+            <label for="Sector" class="col-sm-2 col-form-label"><b>Enter Your Sector</b></label>
+            <select id="Sector" name="Sector" class="form-control"> 
+              <option value="-1">None</option> 
+              <option value="Information Technology">Information Technology</option> 
+              <option value="Business Services ">Business Services </option> 
+              <option value="Biotech & Pharmaceuticals">Biotech & Pharmaceuticals</option> 
+              <option value="Aerospace & Defense">Aerospace & Defense</option> 
+              <option value="Insurance">Insurance</option> 
+              <option value="Health Care">Health Care</option> 
+              <option value="Finance">Finance</option> 
+              <option value="Oil, Gas, Energy & Utilities">Oil, Gas, Energy & Utilities</option> 
+              <option value="Manufacturing">Manufacturing</option> 
+              <option value="Telecommunications">Telecommunications</option> 
+              <option value="Government">Government</option> 
+              <option value="Media">Media</option> 
+              <option value="Education">Education</option> 
+              <option value="Consumer Services">Consumer Services</option> 
+              <option value="Non-Profit">Non-Profit</option> 
+              <option value="Real Estate">Real Estate</option> 
+              <option value="Construction, Repair & Maintenance">Construction, Repair & Maintenance</option> 
+              <option value="Transportation & Logistics">Transportation & Logistics</option> 
+              <option value="Retail">Retail</option> 
+              <option value="Mining & Metals">Mining & Metals</option> 
+              <option value="Travel & Tourism">Travel & Tourism</option> 
+            </select> <br>
+            <label for="job_sim" class="col-sm-2 col-form-label"><b>Enter Position</b></label>
+            <select id="job_sim" name="job_sim" class="form-control"> 
+              <option value="na">Software Enginner</option> 
+              <option value="data scientist">data scientist</option> 
+              <option value="data engineer">data engineer</option> 
+              <option value="analyst">analyst</option> 
+              <option value="mle">Mchine Learning Engineer</option> 
+              <option value="director">director</option> 
+              <option value="manager">manager</option> 
+            </select>  <br>
+            <label  class=" col-form-label"><b>Please Check or uncheck your skills accordingly</b></label><br>
+            <input type="checkbox" id="python_yn" name="python_yn" value="1" checked="checked">
+              <label for="python_yn"> Python</label><br>
+              <input type="checkbox" id="R_yn" name="R_yn" value="1" checked="checked">
+              <label for="R_yn"> R </label><br>
+              <input type="checkbox" id="tableau" name="tableau" value="1" checked="checked">
+              <label for="tableau"> Tableau</label><br>
+              <input type="checkbox" id="power bi" name="power bi" value="1" checked="checked">
+              <label for="power bi"> Power Bi</label><br>
+              <input type="checkbox" id="ml" name="ml" value="1" checked="checked">
+              <label for="ml"> Machine Learning</label><br>
+              <input type="checkbox" id="dl" name="dl" value="1" checked="checked">
+              <label for="dl">Deep Learning</label><br><br>
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict Salary</button>
+        </form>
+        
+      </div>
+        
+    </div>
+       <br>
+       <br>
+    <div class="container" style="text-align: center;">
+      {% if prediction %}
+        <label  class=" col-form-label"><b>Your Enstimated Salary would be </b></label><br>
+        <h3>${{ prediction }}K</h3>
+      {% endif %}
+    </div>
+      
+    
+
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
