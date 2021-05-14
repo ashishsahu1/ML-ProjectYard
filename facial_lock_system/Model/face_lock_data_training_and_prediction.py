@@ -6,7 +6,7 @@ import numpy as np
 
 
 def model_training():
-    data_path = './dataCollection/'
+    data_path = '../dataset/'
     only_files = [f for f in listdir(data_path) if isfile(join(data_path, f))]
     Training_Data, Labels = [], []
     for i, files in enumerate(only_files):
@@ -22,7 +22,7 @@ def model_training():
 
 
 def face_detector(img, size=0.5):
-    face_classifier = cv2.CascadeClassifier('./haarcascade_frontalface_default.xml')
+    face_classifier = cv2.CascadeClassifier('./dataset/haarcascade_frontalface_default.xml')
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     faces = face_classifier.detectMultiScale(gray, 1.5, 5)
 

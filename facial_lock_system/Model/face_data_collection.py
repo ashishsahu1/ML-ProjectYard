@@ -5,14 +5,14 @@ import cv2
 
 def create_directory():
     try:
-        if not os.path.exists('./dataCollection'):
-            os.makedirs('dataCollection')
+        if not os.path.exists('../dataset'):
+            os.makedirs('dataset')
     except OSError:
         print('directory not created')
 
 
 def face_extraction(img):
-    face = cv2.CascadeClassifier('./haarcascade_frontalface_default.xml')
+    face = cv2.CascadeClassifier('./dataset/haarcascade_frontalface_default.xml')
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     faces = face.detectMultiScale(gray, 1.5, 5)
     if faces is ():
@@ -30,7 +30,7 @@ def data_collection(camera):
             c += 1
             face1 = cv2.resize(face_extraction(frame), (200, 200))
             face2 = cv2.cvtColor(face1, cv2.COLOR_BGR2GRAY)
-            name = './dataCollection/count' + str(c) + '.jpg'
+            name = './dataset/count' + str(c) + '.jpg'
             print(name)
             cv2.imwrite(name, face2)
             cv2.imshow("Data Collection", face2)

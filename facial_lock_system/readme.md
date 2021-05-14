@@ -14,7 +14,11 @@ In this project I have Build a facial Lock System using OpenCV which works on th
 
 ![](https://i.postimg.cc/WzFHz6Nf/image.png)
 
+# installation 
 
+for installation just run the following command 
+
+pip install requirements.txt
 
 # Developing Environment 
 

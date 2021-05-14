@@ -1,7 +1,7 @@
 import cv2
 
-import facial_lock_system.face_data_collection as collector
-import facial_lock_system.face_lock_data_training_and_prediction as predictor
+import facial_lock_system.Model.face_data_collection as collector
+import facial_lock_system.Model.face_lock_data_training_and_prediction as predictor
 
 
 class face_lock(object):
