@@ -25,10 +25,10 @@ Flask is used to getting information from user and predicting it using the above
 ## Output:
 
 Input 1
-![](Images/capture_1.png)
+![](Images/Capture_1.PNG)
 Output 1
-![](Images/capture_2.png)
+![](Images/Capture_2.PNG)
 Input 2
-![](Images/capture_3.png)
+![](Images/Capture_3.PNG)
 Output 2
-![](Images/capture_4.png)
+![](Images/Capture_4.PNG)
