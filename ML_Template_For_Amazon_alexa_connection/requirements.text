@@ -1,0 +1,3 @@
+flask-ngrok=0.0.25
+Flask==2.0.0
+Flask-ask=0.9.8
