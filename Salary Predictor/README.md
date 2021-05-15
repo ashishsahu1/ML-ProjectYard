@@ -21,3 +21,14 @@ Flask is used to getting information from user and predicting it using the above
 3. Do some Hyperparameter tuning
 4. Save th model
 5. Deply using flask frame-work.
+
+## Output:
+
+Input 1
+![](images/capture_1.png)
+Output 1
+![](images/capture_2.png)
+Input 2
+![](images/capture_3.png)
+Output 2
+![](images/capture_4.png)
