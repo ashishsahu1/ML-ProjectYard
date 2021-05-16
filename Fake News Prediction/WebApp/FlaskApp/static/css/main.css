@@ -1,0 +1,12 @@
+body{
+    padding: auto;
+}
+
+
+#results{
+    margin-top: 10px !important;
+    margin-bottom: auto !important;
+    width: 85%;
+    background-image: linear-gradient(rgb(122, 168, 211), rgba(231, 73, 73, 0.925), yellow, green); 
+    height: 100%;
+}
