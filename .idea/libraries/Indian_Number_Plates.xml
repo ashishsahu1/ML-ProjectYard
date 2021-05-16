@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Indian_Number_Plates">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Number Plate Detection/Dataset/Indian_Number_Plates.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
