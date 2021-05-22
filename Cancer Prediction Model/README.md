@@ -10,18 +10,18 @@ DATASET - "https://www.kaggle.com/uciml/breast-cancer-wisconsin-data?select=data
 
 ## WHAT I HAD DONE
 
-Firstly imported the required libraries which are Numpy, Cv2, Matplotlib and Os.
-Taking path of the dataset as input and reading it using pd.read_csv.
-To make a good prediction, I had dropped few unnamed and irrelevent data from the dataset. 
-With the well needed data, I had trained and tested using train_test_split from sklearn.
-Finally, I had incorporated them using 4 models to compare the accuracy.
+- Firstly imported the required libraries needed for the project
+- Taking path of the dataset as input and reading it using pd.read_csv.
+- To make a good prediction, I had dropped few unnamed and irrelevent data from the dataset. 
+- With the well needed data, I had trained and tested using train_test_split from sklearn.
+- Finally, I had incorporated them using 4 models to compare the accuracy.
 
-# MODELS USED
+## MODELS USED
 
-Logistic Regression
-Decision Tree Classifier
-Random Forest Classifier
-Support Vector Classifier
+- Logistic Regression
+- Decision Tree Classifier
+- Random Forest Classifier
+- Support Vector Classifier
 
 ## LIBRARIES NEEDED
 
