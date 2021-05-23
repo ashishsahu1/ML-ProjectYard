@@ -1,8 +1,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)](https://www.python.org/downloads/release/python-360/) 
-# Cartoonify_reality
 
+# Cartoonify_reality
 Even the basics of image processing if done properly can be handy which otherwise would require a machine learning model.This project is one of such inspiration which **cartoonizes** images and videos using only core **opencv filters** and functions.It also uses K-means clustering algorithm to compress the image. This clustering gives it the basic cartoonish tinge it requires.
 
 **Algorithm**- K_Means Clustering
@@ -29,10 +29,12 @@ $vid.py
 $cartoonize.py
 ```
 ## Original Image
-![The input Image to cartoonize.py]()
+![original2](https://user-images.githubusercontent.com/65017645/119256366-fc4cf300-bbdd-11eb-9397-cee251b60c8d.jpg)
+
 
 ## Cartoon Output
-![The Output Image of cartoonize.py]()
+![cartoon](https://user-images.githubusercontent.com/65017645/119256368-00791080-bbde-11eb-9af7-24dcf098cbd2.jpg)
+
 
 ## Built With
 * [python](https://www.python.org/) - The software used
