@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.min.js"></script>
+    <script src="https://unpkg.com/ml5@0.2.3/dist/ml5.min.js"></script>
+    <script src="video.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body style="background-color: #fff;">
+    <audio id="audioElement">
+      <source src="alert.wav" type="audio/wav" />
+    </audio>
+    <div id="video"></div>
+    <center>
+      <h1 style="color : white"> POSTURE CORRECTION DEMO</h1>
+      <p style="font:Vedana; font-size:24px; text-align:center;">This demo tracks the body posture of the user and in case the posture is wrong, then it blurs the screen of the user and also sends an alarm sound.<br> Cick on allow when camera asks permission.</p>
+      <button onClick="start()" id="startstop">
+        Start
+      </button>
+    </center>
+  </body>
+</html>

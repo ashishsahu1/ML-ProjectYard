@@ -1,0 +1,59 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+
+
+<!-- Carousel for the home page -->
+<div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="../static/images/cimg_2.jpg" class="d-block w-100" height="500px" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5><strong><em>The Problem with quotes found on the internet is that they are often not True...</em></strong>
+        </h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../static/images/cimg_3.jpg" class="d-block w-100" height="500px" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5><strong><em>When fakes news is repeated it becomes difficult for the public to discern what's
+              real...</em></strong></h5>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="../static/images/cimg_4.jpg" class="d-block w-100" height="500px" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5><strong><em>Beware of false knowledge; it is more dangerous than ignorance...</em></strong></h5>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only"></span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only"></span>
+  </a>
+</div>
+
+
+<!-- TextArea to paste client text -->
+<div class="container" style="margin-top: 30px; margin-bottom: 50px;">
+  <form action="/predict" method="POST" enctype="multipart/form-data">
+    <div class="form-floating">
+      <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" name="news"
+        style="height: 100px"></textarea>
+      <label for="floatingTextarea2">Enter your News ...</label>
+    </div>
+    <div class="container" style="text-align: center; margin-top: 20px;">
+      <button type="submit" class="btn btn-success">Submit</button>
+    </div>
+
+  </form>
+</div>
+</div>
+
+
+{% endblock %}

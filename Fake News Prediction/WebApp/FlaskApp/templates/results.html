@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+
+{% block body %}
+
+
+<div class="container mx-auto my-auto" id="results">
+  <div class="conatiner">
+    <h3><strong>News</strong></h3>
+
+    <p>{{ params['news']}}</p>
+  </div>
+  <h3><strong>Prediction</strong></h3>
+  <p>{{ params['pred']}}</p>
+  <h3><strong>Score</strong></h3>
+  <p>{{ params['score']}}</p>
+  <h4><em>The more negative the score is, the more fake it is and vice versa...</em></h4>
+</div>
+
+{% endblock %}
