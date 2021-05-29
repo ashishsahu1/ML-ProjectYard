@@ -17,4 +17,4 @@ Converting an image into a holi festival filtered image using Image from PIP lib
 <img src="Images/Image.jpg" height="300px">
 
 ## Eid Festival Filtered Image
-<img src="Images/Eid Filtered Image.png" height="300px">
+<img src="Images/Eid Festival Filtered Image.png" height="300px">
