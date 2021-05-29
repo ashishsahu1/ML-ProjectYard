@@ -23,5 +23,5 @@ plt.axis('off')
 
 filename = os.path.basename(img_path)
 
-plt.savefig("(Filtered)"+filename)
+plt.savefig("(Ghost Cartoon Filtered)"+filename)
 plt.show()  #real ghost cartoon filtered photo
