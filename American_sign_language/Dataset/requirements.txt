@@ -1,0 +1,6 @@
+streamlit==0.65.2
+pandas==1.1.1
+numpy==1.18.1
+tensorflow==2.1.0
+Pillow==6.2.1
+Keras==2.3.1
