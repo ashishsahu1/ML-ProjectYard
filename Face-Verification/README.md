@@ -29,3 +29,5 @@ Note :
  1. Use the port number for the webcam according to Device Configration of your sytem.(Edit :Face_Rec.py,  Line 9 ,                 camera=cv2.VideoCapture(0)). 
  2. Use webcam with resolution greater than 640x480 for better accuracy.
          
+## Output 
+![Output](https://user-images.githubusercontent.com/65017645/120103788-012a1d80-c16f-11eb-93c5-29c4b30d53c3.jpeg)
