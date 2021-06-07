@@ -1,6 +1,5 @@
 # Netflix EDA and Genre Prediction using Bert
-
-**Dataset :** https://www.kaggle.com/shivamb/netflix-shows  
+ 
 **Example Output:**
 ```
 movie: Fakkah Fuzz: Almost Banned
