@@ -21,9 +21,11 @@ Conversion of Categorical data into dummy...
 
 80% training & 20% testing
 
-**Random Forest Regression for Test RMSE 0.318834858898931
-Random Forest Regression for Test MSE 0.10165566724910122
-Random Forest Regression for Test MAE 0.21612298119815368**
+**Random Forest Regression for Test RMSE 0.318834858898931**
+
+**Random Forest Regression for Test MSE 0.10165566724910122**
+
+**Random Forest Regression for Test MAE 0.21612298119815368**
 
 Drive Link
 **https://drive.google.com/file/d/1aYM6umlpFuBcUyzEMgXIWRVhBex2pk12/view?usp=sharing**
