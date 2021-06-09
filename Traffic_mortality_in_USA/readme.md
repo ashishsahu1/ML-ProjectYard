@@ -1,0 +1,5 @@
+- The code aims to reduce _Traffic Mortality in the USA_ in a statistically sound way.
+- The data given to us was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners. 
+- This particular dataset was compiled and released as a CSV-file by FiveThirtyEight under the CC-BY4.0 license.
+- Data Visualisation is done with Seaborn and Linear Regression, PCA, and Kmeans algorithms are used.
+- Data wrangling, plotting, dimensionality reduction, and unsupervised clustering is implemented.
