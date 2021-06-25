@@ -15,4 +15,4 @@
 </tr>
 </table>
 
-> NOTE: If you would like to maintain the project and review some good first-time contributions from beginner contributions, please send an [E-Mail](<your-email>)
+> NOTE: If you would like to maintain the project and review some good first-time contributions from beginner contributions, please send an [E-Mail](<ashishsahu10428@gmail.com>)
