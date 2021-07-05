@@ -5,18 +5,23 @@
 
 ![Web 1920 – 3](https://user-images.githubusercontent.com/52550558/109395363-f4204700-7951-11eb-8e18-47477c44c0cb.png)
 
-<center>
+<div align="center">
 
-![](https://badgen.net/github/stars/ashishsahu1/ML-ProjectYard)
-![](https://badgen.net/github/forks/ashishsahu1/ML-ProjectYard)
-![](https://badgen.net/github/open-issues/ashishsahu1/ML-ProjectYard)
-![](https://badgen.net/github/closed-issues/ashishsahu1/ML-ProjectYard)
-![](https://badgen.net/github/prs/ashishsahu1/ML-ProjectYard)
-![](https://badgen.net/github/open-prs/ashishsahu1/ML-ProjectYard)
-![](https://badgen.net/github/closed-prs/ashishsahu1/ML-ProjectYard)
+<a href="https://github.com/ashishsahu1/ML-ProjectYard"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/ashishsahu1/"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MPL_2.0-blue.svg?v=103"></a>
 
-</center>
-
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/graphs/contributors"><img src="https://img.shields.io/github/contributors/ashishsahu1/ML-ProjectYard?color=brightgreen"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/stargazers"><img src="https://img.shields.io/github/stars/ashishsahu1/ML-ProjectYard?color=0059b3"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/network/members"><img src="https://img.shields.io/github/forks/ashishsahu1/ML-ProjectYard?color=yellow"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/issues"><img src="https://img.shields.io/github/issues/ashishsahu1/ML-ProjectYard?color=0059b3"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/ashishsahu1/ML-ProjectYard?color=yellow"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/pulls"><img src="https://img.shields.io/github/issues-pr/ashishsahu1/ML-ProjectYard?color=brightgreen"></a>
+<a href="https://github.com/ashishsahu1/ML-ProjectYard/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/ashishsahu1/ML-ProjectYard?color=0059b3"></a> 
+</div>
+<br>
 
 > This is the one-stop open-source destination for all the projects based on `Machine Learning`, `Deep Learning`, `NLP`,`Computer Vision` and everything includes `frontend` and `backend`!
 
